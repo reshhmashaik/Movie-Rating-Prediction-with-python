@@ -1,0 +1,745 @@
+﻿Year,Duration,Genre,Rating,Votes,Director,Actor 1,Actor 2,Actor 3
+-2019,109 min,Drama,7,8,Gaurav Bakshi,Rasika Dugal,Vivek Ghamande,Arvind Jangid
+-2019,110 min,"Comedy, Romance",4.4,35,Ovais Khan,Prateik,Ishita Raj,Siddhant Kapoor
+-1997,147 min,"Comedy, Drama, Musical",4.7,827,Rahul Rawail,Bobby Deol,Aishwarya Rai Bachchan,Shammi Kapoor
+-2005,142 min,"Drama, Romance, War",7.4,"1,086",Shoojit Sircar,Jimmy Sheirgill,Minissha Lamba,Yashpal Sharma
+-2012,82 min,"Horror, Mystery, Thriller",5.6,326,Allyson Patel,Yash Dave,Muntazir Ahmad,Kiran Bhatia
+-2014,116 min,"Action, Crime, Thriller",4,11,Biju Bhaskar Nair,Augustine,Fathima Babu,Byon
+-2004,96 min,Drama,6.2,17,Madhu Ambat,Rati Agnihotri,Gulshan Grover,Atul Kulkarni
+-2016,120 min,Horror,5.9,59,Arshad Siddiqui,Pankaj Berry,Anubhav Dhir,Hritu Dudani
+-1991,161 min,"Horror, Romance, Thriller",6.5,983,Partho Ghosh,Jackie Shroff,Madhuri Dixit,Javed Jaffrey
+-2012,166 min,"Comedy, Drama, Romance",5.7,512,Rabi Kinagi,Jeet,Koyel Mallick,Sujoy Ghosh
+-2018,102 min,"Comedy, Drama",7.4,"6,619",Umesh Shukla,Amitabh Bachchan,Rishi Kapoor,Vijay Raaz
+-2010,87 min,"Comedy, Drama, Romance",6.3,162,Sharat Katariya,Neil Bhoopalam,Anusha Bose,Manu Rishi Chadha
+-1958,132 min,"Crime, Drama, Mystery",7.2,72,Pramod Chakravorty,Guru Dutt,Waheeda Rehman,Shashikala
+-2021,105 min,"Horror, Thriller",4.4,63,Ram Gopal Varma,Mithun Chakraborty,Makrand Deshpande,Dalip Tahil
+-2017,116 min,"Comedy, Horror",6.6,26,Seshu Kmr,Mast Ali,Aziz Naser,Heena Shaik
+-2009,146 min,"Drama, Horror, Mystery",7.3,"6,329",Vikram K. Kumar,Madhavan,Neetu Chandra,Poonam Dhillon
+-2005,116 min,Drama,7.1,"1,002",Aparna Sen,Shabana Azmi,Konkona Sen Sharma,Rahul Bose
+-1993,168 min,Drama,5.6,15,Vicky Ranawat,Ronit Roy,Tisca Chopra,Shakti Kapoor
+-2002,158 min,"Action, Thriller",6.9,"1,235",Mani Shankar,Milind Soman,Danny Denzongpa,Gulshan Grover
+-2014,126 min,Action,3.5,10,Mohibul Haque,Rehal Khan,Gulshan Grover,Mukesh Tiwari
+-2004,94 min,Drama,4.5,16,Sridhar Reddy,Tarun Arora,Gulshan Grover,Vinay Pandey
+-2008,138 min,"Horror, Mystery, Romance",6.4,"3,100",Vikram Bhatt,Rajniesh Duggall,Adah Sharma,Anjori Alagh
+-2016,120 min,"Horror, Mystery",4.1,"1,559",Dharmendra Suresh Desai,Sharman Joshi,Meera Chopra,Vishal Karwal
+-2012,124 min,"Drama, Horror, Romance",4.8,"1,811",Bhushan Patel,Vicky Ahuja,Tia Bajpai,Tarakesh Chauhan
+-2018,144 min,"Horror, Mystery, Romance",4.5,"1,069",Vikram Bhatt,Zareen Khan,Karan Kundra,Vikram Bhatt
+-1994,157 min,"Action, Drama, History",7.2,"3,223",Vidhu Vinod Chopra,Anil Kapoor,Jackie Shroff,Manisha Koirala
+-2007,136 min,"Action, Drama, War",8.1,"1,892",Amrit Sagar,Manoj Bajpayee,Ravi Kishan,Deepak Dobriyal
+-2019,107 min,Thriller,4,20,Aziz Zee,Abuzar Akhtar,Apurva Godbole,Vaishnavi Kadam
+-2017,113 min,Comedy,5.5,106,Prashant Gore,Amitkumar Sharma,Omna,Rita Agarwal
+-2012,80 min,"Adventure, Horror, Mystery",6.8,21,Harish Sharma,Hemant Pandey,Sumeet Sharma,Sumeet Sharma
+-2003,122 min,"Action, Crime, Thriller",5,33,Sunil Tiwari,Ashutosh Rana,Rocky Verma,Saadhika
+-2014,149 min,"Comedy, Drama, Romance",6.9,"24,034",Abhishek Varman,Arjun Kapoor,Alia Bhatt,Amrita Singh
+-2018,148 min,"Action, Sci-Fi",6.2,"21,938",S. Shankar,Rajinikanth,Akshay Kumar,Amy Jackson
+-1998,149 min,"Crime, Mystery, Thriller",3.5,112,Raj N. Sippy,Jackie Shroff,Dimple Kapadia,Tabu
+-2017,130 min,Comedy,6.1,94,Jaideep Chopra,Divyendu Sharma,Kiku Sharda,Harshad Chopda
+-2018,124 min,Thriller,6.1,8,Shivam Tiwari,Rahul Dev,Shivam Tiwari,Sophia Singh
+-1979,121 min,"Drama, History",7.7,52,Jayoo Patwardhan,Nachiket Patwardhan,Sadashiv Amrapurkar,Udayan Dixit
+-2019,126 min,Sport,6.1,361,Mitali Ghoshal,Barun Sobti,Amartya Ray,Rajit Kapoor
+-2002,188 min,"Biography, Drama, History",5.1,642,Guddu Dhanoa,Bobby Deol,Sunny Deol,Amrita Singh
+-1974,115 min,Drama,6.9,194,Awtar Krishna Kaul,Sudhir Dalvi,Rakhee Gulzar,Sadhu Meher
+-2014,103 min,"Horror, Romance",5,514,Vishal Mahadkar,Salil Acharya,Kavin Dave,Jason Matthew Ethier
+-2012,114 min,"Comedy, Romance",3.3,165,Ajai Sinha,Sharman Joshi,Negar Khan,Nigaar Khan
+-2003,115 min,"Crime, Drama",7.8,"2,322",Nagesh Kukunoor,Naseeruddin Shah,Jackie Shroff,Juhi Chawla
+-2019,122 min,Comedy,6.9,35,Ankush Bhatt,Karan Singh Grover,Ravi Dubey,Kunaal Roy Kapur
+-2009,170 min,"Comedy, Drama",8.4,"3,57,889",Rajkumar Hirani,Aamir Khan,Madhavan,Mona Singh
+-2018,100 min,Drama,6.9,358,Arjun Mukerjee,Aisha Ahmed,Tarun Anand,Richa Chadha
+-2015,99 min,"Adventure, Drama",4.3,6,Divakar Ghodake,Seema Azmi,Meenal Chirankar,Pooja Kasekar
+-2015,109 min,"Action, Drama, History",5.8,238,Shivaji Lotan Patil,Soha Ali Khan,Lakha Lakhwinder Singh,Nagesh Bhonsle
+-2006,140 min,"Comedy, Mystery, Thriller",5.7,"4,373",Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla,Akshaye Khanna,Kareena Kapoor
+-1981,122 min,"Drama, Romance",7.5,392,Aparna Sen,Jennifer Kendal,Dhritiman Chatterjee,Debashree Roy
+-2020,128 min,"Crime, Thriller",5.7,252,Gunveen Kaur,Robin Sikarwar,Vivek Kumar,Deeksha Joshi
+-2019,93 min,Drama,5.6,93,Faruk Kabir,Muntazir Ahmad,Shashank Arora,Mohd. Zeeshan Ayyub
+-1985,102 min,Horror,5.6,80,Shyam Ramsay,Tulsi Ramsay,Rajan Sippy,Arti Gupta
+-2013,125 min,"Horror, Sci-Fi, Thriller",3.6,"1,128",Sheershak Anand,Shantanu Ray Chhibber,Neil Nitin Mukesh,Sonal Chauhan
+-2019,145 min,Horror,6.3,6,Sanjay Niranjan,Deepak Bhatia,Mukul Dev,Sakshi Dwivedi
+-2011,121 min,"Drama, Mystery, Thriller",7.3,"2,548",Prawaal Raman,Rajvvir Aroraa,Imaaduddin Shah,Nishikant Kamat
+-2016,75 min,Drama,4.8,9,Mainak Dhar,Marilia Colturato,Kyara Jacob,Kyara Ralella Jacob
+-2012,113 min,"Drama, Family, Musical",7.8,21,Suhaib Ilyasi,Srishti Gautam,Farida Jalal,Supriya Karnik
+-2012,111 min,Thriller,5.7,75,Faisal Saif,Nassar Abdulla,Shawar Ali,Rashid Khan
+-1974,134 min,"Action, Comedy",6.5,36,I.S. Johar,Rakesh Khanna,Rajesh Khanna,Ambika Johar
+-2011,110 min,"Action, Adventure, Fantasy",4.6,19,G. Venugopal,Akash,Avinash,Gagan
+-2014,104 min,Horror,4.2,171,Bharat Jain,Prashantt Guptha,Gaurav Paswala,Gaurav Kothari
+-2007,92 min,Drama,6.2,31,Sridhar Rangayan,Mouli Ganguly,Joy Sengupta,Jayati Bhatia
+-2005,136 min,"Comedy, Drama",5.3,281,Ishaan Trivedi,Juhi Chawla,Irrfan Khan,Manoj Pahwa
+-1988,126 min,Action,5,7,Raju Saigal,Tina Ambani,Shoma Anand,Krishan Dhawan
+-2016,115 min,"Crime, Thriller",5.7,398,Saurabh Varma,Sandeepa Dhar,Natasa Stankovic,Shiv Panditt
+-2006,100 min,Documentary,6.2,10,Dutta Madhusree,Vibha Chhibber,Harish Khanna,Om Prakash
+-2011,137 min,"Drama, Mystery, Thriller",6.1,"5,640",Vishal Bhardwaj,Priyanka Chopra Jonas,Vivaan Shah,Neil Nitin Mukesh
+-1987,127 min,"Drama, Horror, Musical",4.1,34,S.U. Syed,Sharmila Tagore,Suresh Oberoi,Navin Nischol
+-2019,120 min,Thriller,5.3,449,Shravankumar Tiwari,Mohan Agashe,Raayo S. Bakhirta,Divya Dutta
+-2019,130 min,"Action, Biography, Drama",5.3,249,Avinash Dhyani,Avinash Dhyani,Yeshi Dema,Alka Amin
+-2009,122 min,"Action, Fantasy, Mystery",5.4,"5,459",Nagesh Kukunoor,Akshay Kumar,Ayesha Takia,Javed Jaffrey
+-2021,115 min,"Adventure, Drama, Mystery",6.6,21,Joe Eshwar,Ranji Vijayan,Kuriakose Oonnittan,Guy Bleyaert
+-2003,119 min,"Mystery, Thriller",4.7,66,Kushan Nandy,Atul Kulkarni,Rahul Dev,Suchitra Pillai
+-2017,124 min,Action,5.3,9,Amrit Raj Thakur,Arun Bakshi,Ajeet Goswami,Rohit Rajawat
+-2009,135 min,"Comedy, Crime, Drama",7.3,"2,767",Krishna D.K.,Raj Nidimoru,Kunal Khemu,Boman Irani
+-2019,128 min,"Musical, Romance",7.4,"1,901",Vishwesh Krishnamoorthy,Ehan Bhat,Edilsy Vargas,Tenzing Dalha
+-2005,90 min,"Crime, Drama",4.8,38,Sanjay Bhatia,Shawar Ali,Rajkumar Kanojia,Jai Nagra
+-2016,105 min,Drama,8.1,412,Padmakumar Narasimhamurthy,Dhruva Padmakumar,Gaurav Sharma,Vasuki
+-2017,145 min,Drama,6.3,10,Premraaj,Rajinder Verma,Sunil Lahri,Nishigandha Wad
+-2016,110 min,"Drama, Thriller",7.5,"4,637",Konkona Sen Sharma,Kalki Koechlin,Vikrant Massey,Gulshan Devaiah
+-2015,72 min,"Documentary, Biography",7.7,10,Sruti Harihara Subramanian,,,
+-2005,150 min,"Horror, Mystery",6.8,179,Sekhar Suri,Sherlyn Chopra,Rajeev Kanakala,Richard Rishi
+-2010,103 min,"Drama, Horror, Romance",4.5,202,Hemant Madhukar,Jimmy Sheirgill,Sanjay Suri,Hazel Croney
+-2016,151 min,"Action, Adventure, Comedy",3,"4,145",Remo D'Souza,Tiger Shroff,Jacqueline Fernandez,Nathan Jones
+-2020,109 min,"Comedy, Romance",6.3,181,Vivek Sharma,Mandy Takhar,Vivek Sharma,Sumit Suri
+-2017,145 min,"Action, Comedy",6.2,"5,227",Krishna D.K.,Raj Nidimoru,Sidharth Malhotra,Jacqueline Fernandez
+-2019,95 min,"Drama, Romance",8,33,Dhruv Sachdev,Sanjay Deyali,Sudha Chandran,Anang Desai
+-2013,127 min,Drama,7.3,17,Praveen Damle,Geeta Agrawal,Jyoti Bagat,Gautam Dhengare
+-1996,52 min,Documentary,6.4,7,Riyad Vinci Wadia,Aida Banaji,Ajay Mehta,
+-2013,140 min,Romance,6,80,John Mathew Matthan,Raqesh Bapat,Gurpreet Kaur Chadha,Smita Jaykar
+-2020,89 min,Documentary,6.8,15,Cristina Hanes,Isabella Rinaldi,Arya Rothe,
+-2016,112 min,Thriller,3.1,142,Ishaan Trivedi,Johnny Baweja,Reeth Mazumder-Roberts,Manav Kaul
+-2005,143 min,"Drama, Romance",3.8,627,Suneel Darshan,Bobby Deol,Bipasha Basu,Priyanka Chopra Jonas
+-2017,90 min,Documentary,6.9,337,Sarita Khurana,Smriti Mundhra,Sima Taparia,
+-2019,104 min,Drama,7.9,24,Vierendrra Lalit,Trivikram Mattoo,Rahul Roy,Akansha Shivhare
+-2008,104 min,"Action, Crime, Drama",8.1,"75,118",Neeraj Pandey,Anupam Kher,Naseeruddin Shah,Jimmy Sheirgill
+-1999,177 min,"Musical, Romance, Drama",5.5,"1,621",Rishi Kapoor,Rajesh Khanna,Akshaye Khanna,Aishwarya Rai Bachchan
+-2018,121 min,Drama,8,249,Ramkumar Shedge,Shravani Abhang,Sajid Ali,Tamannaah Bhatia
+-2009,117 min,"Action, Sci-Fi, Thriller",5,866,Jehangir Surti,Neil Nitin Mukesh,Bipasha Basu,Sophiya Chaudhary
+-1973,148 min,"Action, Drama, Romance",7.2,348,Manmohan Desai,Shashi Kapoor,Sharmila Tagore,Shatrughan Sinha
+-1994,158 min,"Mystery, Romance",4.4,115,Hamid Ali Khan,Jugal Hansraj,Urmila Matondkar,Paresh Rawal
+-2017,123 min,Action,2.7,339,Dipankar Senapati,Govinda,Richa Sharma,Poonam Pandey
+-2016,120 min,Drama,6.8,16,Azad Jain,Neha Chauhan,Ganraj Jadhav,Dipak Khetiya
+-2004,144 min,Fantasy,2.4,264,Dheeraj Kumar,Naveen Bawa,Prabhu Deva,Satish Kaushik
+-1968,170 min,"Comedy, Crime, Drama",5.5,21,C.L. Rawal,Ashok Kumar,Vimi,Rehman
+-2018,72 min,Horror,7.4,150,Kshitij Sharma,Deeya Dey,Anoma Pabuwal,Mahendra Singh Rawat
+-1982,105 min,"Action, Crime, Drama",5.5,28,Ambrish Sangal,Mithun Chakraborty,Rameshwari,Madan Puri
+-1977,132 min,Action,5.1,18,Doondi,Jalal Agha,Vinod Khanna,Shabana Azmi
+-2019,107 min,Drama,7.6,69,Suman Ghosh,Vineet Kumar Singh,Saurabh Shukla,Raghuvir Yadav
+-1982,154 min,Drama,6.4,19,Ashok Ahuja,Dolly Ahluwalia,Raja Bundela,Neena Gupta
+-2013,157 min,"Action, Crime, Thriller",5.4,568,Ameer Sultan,Jayam Ravi,Neetu Chandra,Sudha Chandran
+-1950,115 min,"Drama, Romance",6.7,9,S.K. Ojha,Cuckoo,Jeevan,Kuldip Kaur
+-1968,175 min,"Drama, Romance",6.8,196,A. Bhimsingh,Dilip Kumar,Waheeda Rehman,Manoj Kumar
+-1993,153 min,"Action, Crime, Drama",6.5,97,Arshad Khan,Ajit,Vikas Anand,Arjun
+-1991,142 min,Fantasy,6.7,66,J. Om Prakash,K. Raghavendra Rao,Chiranjeevi,Amrish Puri
+-1969,168 min,"Drama, Romance, Thriller",6.2,149,Yash Chopra,Dharmendra,Saira Banu,Feroz Khan
+-1993,158 min,"Drama, Romance",5,142,J. Om Prakash,Jeetendra,Reena Roy,Govinda
+-2009,78 min,Drama,7.6,62,Amit Dutta,Ashok Chaudhary,Bramhaswaroop Mishra,Gagan Singh Sethi
+-1977,138 min,"Drama, Family",5.4,34,Devendra Goel,Shatrughan Sinha,Vikram Makandar,Zaheera
+-2016,145 min,Horror,4.2,266,Kannan Thamarakkulam,Jayaram,Ramya Krishnan,Om Puri
+-1977,148 min,"Crime, Drama",5.3,17,Atma Ram,Navin Nischol,Leena Chandavarkar,Jayshree T.
+-1948,138 min,"Musical, Romance",7.4,357,Raj Kapoor,Nargis,Kamini Kaushal,Nigar Sultana
+-1994,139 min,"Action, Comedy, Drama",4.6,227,K. Ravi Shankar,Govinda,Shilpa Shetty Kundra,Sonali Bendre
+-1994,133 min,Action,4.1,13,Kanti Shah,Alpana,Aparajita,Asrani
+-1987,170 min,Action,5.3,93,Shibu Mitra,Dharmendra,Shatrughan Sinha,Moushumi Chatterjee
+-1990,180 min,"Action, Drama",4.8,101,David Dhawan,Sunny Deol,Dimple Kapadia,Archana Puran Singh
+-1993,137 min,Action,4.8,21,Kanti Shah,Dharmendra,Sadashiv Amrapurkar,Asrani
+-1988,138 min,"Action, Thriller",3.4,7,S.R. Pratap,Bipasha,Hemant Birje,Sudhir Dalvi
+-1989,151 min,Action,5,52,Subhash Ghai,Bhaskar Shetty,Jeetendra,Anil Kapoor
+-2001,78 min,Horror,3.1,7,A.T. Joy,Lekha Pande,Vimal Raj,Shakila
+-2009,117 min,"Comedy, Crime, Drama",5,381,Indrajit Nattoji,Shreyas Talpade,Mahie Gill,Karan Veer Mehra
+-2000,153 min,"Action, Crime, Drama",4.2,274,Yogesh Ishwar,Sunil Shetty,Sushmita Sen,Namrata Shirodkar
+-1953,150 min,"Drama, Musical, Romance",7.2,275,Raja Nawathe,Nargis,Raj Kapoor,Vijayalaxmi
+-1978,135 min,"Action, Drama",6,25,Ashok V. Bhushan,Rajendra Kumar,Shashi Kapoor,Rakesh Roshan
+-1993,149 min,"Drama, Romance",6,448,Deepak Sareen,Jackie Shroff,Juhi Chawla,Amrita Singh
+-1977,150 min,Drama,6.8,94,K. Balachander,Mumtaz,Rajesh Khanna,A.K. Hangal
+-1987,116 min,Drama,5.5,281,Mahesh Bhatt,Raj Babbar,Smita Patil,Raj Kiran
+-1963,144 min,"Drama, Romance",5.6,52,Vasant Joglekar,Ashok Kumar,Sunil Dutt,Nanda
+-2003,46 min,Action,3.1,15,Amit Chandra Sahay,Sudesh Berry,Priyanka Upendra,Aman Jalali
+-1990,164 min,"Action, Crime, Drama",4.7,586,K.C. Bokadia,Amitabh Bachchan,Jaya Prada,Radhika Sarathkumar
+-1985,153 min,"Action, Drama",5.1,40,K. Bapaiah,Jackie Shroff,Padmini Kolhapure,Nirupa Roy
+-1992,147 min,"Action, Thriller",5.3,144,Ravi Raja Pinisetty,Chiranjeevi,Meenakshi Sheshadri,Raj Babbar
+-1976,170 min,"Action, Romance",3.5,23,Kundan Kumar,Randhir Kapoor,Rekha,Ranjeet
+-2000,128 min,"Action, Crime",4.3,31,Kasam Ali,Mithun Chakraborty,Gajendra Chauhan,Siddharth Dhawan
+-1991,123 min,"Action, Romance",3.1,14,Kukoo Kapoor,Hemant Birje,Sahila Chaddha,Goga Kapoor
+-1984,157 min,"Action, Drama",5.8,65,Narayana Rao Dasari,Rajesh Khanna,Shabana Azmi,Deven Verma
+-1988,128 min,"Action, Drama",5,26,Babbar Subhash,Vinod K. Verma,Hemant Birje,Archana Puran Singh
+-1990,132 min,Action,3.3,15,Shibu Mitra,Jeetendra,Raj Babbar,Chunky Panday
+-1984,137 min,"Action, Drama, Crime",5.6,79,Ravi Chopra,Raj Babbar,Smita Patil,Rashmi Chauhan
+-1993,162 min,Romance,4.4,30,Ketan Anand,Krishan Kumar,Tanya Singh,Shammi Kapoor
+-2007,137 min,"Drama, Family, Music",6.2,"2,998",Anil Mehta,Madhuri Dixit,Darshan Jariwala,Raghuvir Yadav
+-1968,121 min,"Drama, Romance",6.7,14,Yusuf Naqvi,Feroz Khan,Tanuja,Deven Verma
+-1986,164 min,"Action, Crime, Drama",7.1,"1,283",Bhagyaraj,Amitabh Bachchan,Sridevi,Jaya Prada
+-1988,148 min,"Action, Thriller",5.2,78,Rajiv Mehra,Vinod Khanna,Dimple Kapadia,Jackie Shroff
+-1989,149 min,"Action, Drama, Family",4.1,53,Ashim S. Samanta,Shatrughan Sinha,Moushumi Chatterjee,Govinda
+-1989,120 min,"Action, Crime, Drama",5,21,Mangal Chakravarty,Tom Alter,Yogeeta Bali,Abhi Bhattacharya
+-1989,171 min,"Action, Crime, Drama",4.9,34,Shibu Mitra,Mithun Chakraborty,Sonam,Anupam Kher
+-1979,126 min,"Action, Thriller",6.3,7,Dinesh-Ramanesh,Ramesh Puri,Vinod Mehra,Yogeeta Bali
+-1966,153 min,Drama,6.9,122,Chetan Anand,Rajesh Khanna,Indrani Mukherjee,Master Bunty
+-1990,160 min,"Action, Romance",7.3,39,N.K. Vishwanathan,Nassar,Nirosha,Aurn Pandian
+-1997,138 min,Action,2.8,17,Narendra Bedi,Vijayendra Ghatge,Kaajal Kiran,Mukesh Khanna
+-1975,139 min,"Drama, History, Romance",6.3,44,J. Om Prakash,Ashok Kumar,Sanjeev Kumar,Rakesh Roshan
+-1980,144 min,"Crime, Drama, Music",7.9,887,Govind Nihalani,Naseeruddin Shah,Smita Patil,Amrish Puri
+-2010,115 min,"Action, Crime, Thriller",7,"3,464",Priyadarshan,Ajay Devgn,Akshaye Khanna,Bipasha Basu
+-2012,116 min,Sci-Fi,5.4,26,Manish Manikpuri,Omkar Das Manikpuri,Pitobash,Amit Purohit
+-2001,177 min,"Action, Thriller",7.2,"2,192",Suresh Krishna,Kamal Haasan,Raveena Tandon,Manisha Koirala
+-2007,152 min,Action,3,922,Chella,Ajith Kumar,Asin Thottumkal,Vivek
+-2018,107 min,"Drama, Family",7.7,72,Mrinal Sen,Saswata Chatterjee,Nandita Das,Koushik Sen
+-2001,150 min,"Comedy, Drama, Family",4.8,"1,238",K. Raghavendra Rao,A.S. Ravindra Babu,Govinda,Juhi Chawla
+-2008,99 min,"Action, Crime, Drama",7.7,"10,862",Raj Kumar Gupta,Rajeev Khandelwal,Aishwarya,Vasan Bala
+-1967,163 min,"Crime, Mystery, Romance",6.5,81,Suraj Prakash,Shashi Kapoor,Sharmila Tagore,Prem Chopra
+-1982,143 min,"Action, Crime, Drama",6.4,53,Ashim S. Samanta,Mithun Chakraborty,Bindiya Goswami,Arti Gupta
+-1984,130 min,Drama,6.4,37,Ravi Tandon,Rishi Kapoor,Moushumi Chatterjee,Shammi Kapoor
+-1970,177 min,"Drama, Musical, Romance",6.4,211,Mukul Dutt,Rajesh Khanna,Asha Parekh,Vinod Khanna
+-2004,149 min,"Action, Crime, Drama",5.7,"2,907",Madhur Bhandarkar,Akshay Kumar,Shatrughan Sinha,Sunil Shetty
+-2003,160 min,Drama,5.6,102,Rajesh Ram Singh,Arun Bakshi,Suchindra Bali,Poonam Jhawer
+-1980,138 min,"Action, Drama, Family",6.4,58,Anil Ganguly,Rajesh Khanna,Rakhee Gulzar,Rekha
+-1975,133 min,"Drama, Romance",8.1,"1,406",Gulzar,Suchitra Sen,Sanjeev Kumar,Om Shivpuri
+-1985,144 min,Drama,6.1,49,Babbar Subhash,Shashi Kapoor,Hema Malini,Danny Denzongpa
+-1952,136 min,Drama,7.4,30,Chetan Anand,Dev Anand,Nimmi,Kalpana Kartik
+-1990,145 min,Drama,4.8,38,David Dhawan,Mumtaz,Prasenjit Chatterjee,Madhushree
+-2019,94 min,Drama,6.6,15,Fahim Irshad,Farrukh Seyer,Priyanka Verma,Neha Singh
+-1993,170 min,"Action, Comedy, Crime",6.7,"1,898",David Dhawan,Govinda,Chunky Panday,Raj Babbar
+-2002,165 min,"Crime, Drama, Thriller",7.4,"12,574",Vipul Amrutlal Shah,Amitabh Bachchan,Akshay Kumar,Sushmita Sen
+-1972,154 min,"Drama, Romance",6.4,28,Raghunath Jhalani,Rakhee Gulzar,Rakesh Roshan,Achala Sachdev
+-1970,150 min,"Comedy, Drama, Family",6.5,24,P. Madhavan,Hema Malini,Parikshit Sahni,Jagdeep
+-1994,141 min,Romance,4.2,160,Ravindra Peepat,Saif Ali Khan,Shilpa Shetty Kundra,Somy Ali
+-2009,140 min,"Comedy, Family, Fantasy",5.1,584,Glen Barreto,Aftab Shivdasani,Aamna Sharif,Rati Agnihotri
+-1971,119 min,"Comedy, Drama, Romance",6.6,80,Mohan Kumar,Rajendra Kumar,Sadhana,Prem Chopra
+-1976,145 min,"Drama, Family",5.7,32,Mohan Kumar,Shashi Kapoor,Hema Malini,Ashok Kumar
+-1974,153 min,"Romance, Drama",7,420,J. Om Prakash,Rajesh Khanna,Mumtaz,Sanjeev Kumar
+-1977,115 min,"Action, Comedy, Drama",6.3,27,Sudhendu Roy,Vinod Khanna,Rekha,Nadira
+-2006,122 min,"Comedy, Romance",3.6,863,Dharmesh Darshan,Akshaye Khanna,Priyanka Chopra Jonas,Ameesha Patel
+-1964,128 min,"Drama, Family, Romance",6.3,39,Mohan Kumar,Dharmendra,Supriya Choudhury,Vijayalaxmi
+-2002,180 min,"Action, Drama, Romance",3.1,"2,366",Vikram Bhatt,Hrithik Roshan,Ameesha Patel,Kiran Kumar
+-1980,145 min,"Romance, Drama, Family",5.6,38,Ambrish Sangal,Raj Babbar,Ranjeeta Kaur,Deepak Parashar
+-1981,148 min,"Action, Romance",5.2,17,Harmesh Malhotra,Poonam Dhillon,Raj Babbar,Shakti Kapoor
+-2003,145 min,"Action, Comedy, Drama",4.5,273,Anubhav Sinha,Priyanshu Chatterjee,Sakshi Shivanand,Farida Jalal
+-1985,125 min,Action,6.1,44,Shakti Samanta,Mithun Chakraborty,Rozina,Utpal Dutt
+-1997,180 min,Thriller,6.1,230,Ketan Mehta,Jackie Shroff,Deepa Sahi,Ritu Shivpuri
+-2011,164 min,"Drama, Thriller",6.2,"5,170",Prakash Jha,Amitabh Bachchan,Saif Ali Khan,Manoj Bajpayee
+-1957,210 min,Horror,5.9,7,Varalakshmi G.,,,
+-1974,129 min,Drama,6.7,13,Atma Ram,Vinod Khanna,Saira Banu,Vinod Mehra
+-1954,146 min,"Musical, Romance, Thriller",6.6,250,Guru Dutt,Shyama,Guru Dutt,Jagdish Sethi
+-1962,156 min,"Family, Musical, Romance",6.6,67,Phani Majumdar,Ashok Kumar,Meena Kumari,Pradeep Kumar
+-2007,157 min,"Action, Drama, Romance",4.6,191,Balasekaran,Bhavana,Madhavan,Prakash Raj
+-1999,175 min,"Drama, Romance",5.4,"1,445",Lawrence D'Souza,Madhuri Dixit,Akshay Kumar,Saif Ali Khan
+-1957,171 min,"Comedy, Romance",6.5,23,M.V. Raman,Vyjayanthimala,Kishore Kumar,Pran
+-1980,123 min,"Drama, Musical, Romance",5.3,199,J. Om Prakash,Jeetendra,Reena Roy,Rameshwari
+-2010,120 min,Drama,7.1,"1,259",Nagesh Kukunoor,John Abraham,Anaitha Nair,Girish Karnad
+-1962,150 min,Romance,6.7,64,Hrishikesh Mukherjee,Raj Kapoor,Padmini,Nanda
+-2001,160 min,"Action, Drama, Romance",3.8,403,Indra Kumar,Bobby Deol,Karisma Kapoor,Rahul Dev
+-2005,115 min,"Drama, Romance, Thriller",4.3,"1,569",Aditya Datt,Emraan Hashmi,Tanushree Dutta,Sonu Sood
+-1977,136 min,Romance,5.5,85,J. Om Prakash,Rajesh Khanna,Zeenat Aman,Danny Denzongpa
+-1990,152 min,"Musical, Drama, Romance",6.3,"1,661",Mahesh Bhatt,Rahul Roy,Anu Agrawal,Avtar Gill
+-2013,132 min,"Drama, Music, Musical",7,"27,357",Mohit Suri,Aditya Roy Kapoor,Shraddha Kapoor,Shaad Randhawa
+-2011,109 min,"Drama, Romance",3.7,61,Shankhadeep,Shubhi Ahuja,Amit Dhamija,Preeti Gandwani
+-1968,146 min,Drama,7.3,203,Hrishikesh Mukherjee,Ashok Kumar,Sanjeev Kumar,Sumita Sanyal
+-2014,132 min,Drama,6.1,10,Sriparna Dey,Anamitra Roy,Anamitra Roy,Yovik
+-2018,105 min,"Action, Crime, Drama",5.2,8,Sudipto Sen,Subrat Dutta,Ameet Gaurr,Sunny Hinduja
+-2009,240 min,Drama,3.8,46,Rohit Krishnakant Nayyar,Hrishitaa Bhatt,Seema Biswas,Nauheed Cyrusi
+-1984,145 min,"Drama, Mystery",4.8,12,Tony Juneja,Rajiv Kapoor,Divya Rana,Tina Ambani
+-1965,172 min,Drama,5.5,6,Khwaja Ahmad Abbas,Prithviraj Kapoor,Dilip Roy,Surekha
+-1992,88 min,"Adventure, Comedy, Romance",6.8,56,Pankaj Parashar,Abhishek Chitlangia,Raghuvir Yadav,Anupam Kher
+-1993,150 min,Action,4.5,88,Mehul Kumar,Jeetendra,Madhuri Dixit,Kiran Kumar
+-1966,161 min,"Drama, Family",7.2,32,Satyen Bose,Mala Sinha,Biswajit Chatterjee,Balraj Sahni
+-1997,132 min,Drama,6.4,172,Basu Bhattacharya,Rekha,Om Puri,Dinesh Thakur
+-1996,113 min,"Action, Thriller",3.9,99,Prem Lalwani,Desh Mukherjee,Nafisa Ali,Dharmendra
+-1995,155 min,"Action, Crime, Drama",5.2,776,Dilip Shankar,Rajinikanth,Aamir Khan,Juhi Chawla
+-2006,167 min,"Action, Drama, Thriller",4.4,"2,166",Ramana,Joseph Vijay,Trisha Krishnan,Vivek
+-1979,139 min,Action,4.5,16,Ambrish Sangal,Jeetendra,Neetu Singh,Dheeraj Kumar
+-1994,155 min,"Action, Crime, Drama",5.8,735,Sanjay Gupta,Sanjay Dutt,Aditya Pancholi,Raveena Tandon
+-2006,107 min,"Crime, Drama, Horror",4.2,79,Deepak Ramsay,Kapil Jhaveri,Shabana Raza,Vikram Singh
+-2013,100 min,"Drama, Horror, Thriller",3.8,623,Suparn Varma,Jaideep Ahlawat,Bipasha Basu,Padam Bhola
+-1998,153 min,"Comedy, Romance",6.4,170,E.V.V. Satyanarayana,Nagarjuna Akkineni,Tabu,Heera Rajgopal
+-1974,107 min,"Drama, Romance",7,213,Basu Bhattacharya,Rajesh Khanna,Sharmila Tagore,Dina Pathak
+-1956,146 min,Romance,5.1,7,Zia Sarhadi,Nalini Jaywant,Nasir Hussain,Usha Kiran
+-1964,128 min,"Action, Adventure, Fantasy",6.1,14,Mohammed Hussain,Kedar Kapoor,Dara Singh,Helen
+-1999,111 min,Action,5.4,31,Deepak Balraj Vij,Mithun Chakraborty,Aditya Pancholi,Gulshan Grover
+-1966,170 min,"Musical, Romance",6.6,109,Raghunath Jhalani,Asha Parekh,Dharmendra,Balraj Sahni
+-2011,125 min,"Action, Musical, Thriller",4.4,346,Prashant Chadha,Sachiin Joshi,Candice Boucher,Arya Babbar
+-1995,147 min,"Action, Drama, Romance",5,35,Sachin Pilgaonkar,Sachin,Rohit Kumar Sharma,Dharmendra
+-1984,128 min,Comedy,6.6,85,Pankaj Parashar,Ravi Baswani,Raja Bundela,Pawan Malhotra
+-1957,133 min,Drama,7.6,80,Amar Kumar,Master Romi,Sulochana Latkar,Lala Yaqoob
+-2012,78 min,Comedy,4,6,Deepak Tanwar,Saurabh Malik,Rekha Rana,Omkar Das Manikpuri
+-1995,125 min,"Action, Drama",4.8,32,Harish Shah,Rekha,Mithun Chakraborty,Deepika Amin
+-2004,129 min,"Action, Crime, Drama",7.8,"8,379",Shimit Amin,Nana Patekar,Revathi,Yashpal Sharma
+-2015,106 min,"Action, Crime, Thriller",5.8,"1,344",Ejaz Gulab,Nana Patekar,Mohan Agashe,Gul Panag
+-1994,127 min,"Drama, Romance",4,6,Rakesh Nahata,Keshto Iqbal,Arvind Joshi,Shalini Kapoor
+-2004,193 min,"Action, Drama, War",4.6,"1,494",Anil Sharma,Sanjay Sharma,Amitabh Bachchan,Akshay Kumar
+-2004,137 min,"Romance, Thriller",3.2,74,Rajesh Kumar Singh,Chetanya Adeep,Shawar Ali,Arun Bakshi
+-2013,160 min,"Drama, Music",6.3,"6,458",Remo D'Souza,Prabhu Deva,Ganesh Acharya,Kay Kay Menon
+-1980,136 min,"Action, Drama, Romance",6.4,189,Sanjay Khan,Raj Kapoor,Sanjay Khan,Sanjeev Kumar
+-1955,140 min,"Action, Adventure, Fantasy",4.8,21,Ramanlal Desai,Prem Nath,Ameeta,Shashikala
+-1995,127 min,Fantasy,7,64,Annu Kapoor,Ankit Desai,Benjamin Gilani,Eka Lakhani
+-1977,135 min,"Action, Drama, Thriller",5.4,10,Roshan Taneja,Jaya Bachchan,Danny Denzongpa,Simi Garewal
+-1968,141 min,"Drama, Romance",6.8,24,Amit Bose,Meena Kumari,Nanda,Sanjay Khan
+-1973,122 min,"Drama, Musical",7.9,"2,665",Hrishikesh Mukherjee,Amitabh Bachchan,Jaya Bachchan,Asrani
+-1991,140 min,"Crime, Drama, Musical",7,326,Priyadarshan,Mohanlal,Shankar,Ajayan Adoor
+-1989,168 min,"Action, Comedy, Drama",4.6,28,Tony Juneja,Anil Kapoor,Kimi Katkar,Poonam Dhillon
+-1970,154 min,"Drama, Romance",6.7,70,Subodh Mukherji,Shashi Kapoor,Hema Malini,Deb Mukherjee
+-1984,132 min,Drama,5.8,109,Hiren Nag,Tapas Pal,Madhuri Dixit,Sheela Sharma
+-2010,105 min,"Crime, Drama, Thriller",4,284,Mahesh Nair,Farooq Shaikh,Celina Jaitly,Abhimanyu Singh
+-1973,96 min,"Crime, Drama",6.8,213,Gulzar,Vinod Khanna,Om Shivpuri,Lily Chakravarty
+-1998,160 min,"Action, Mystery, Thriller",4,245,Naresh Malhotra,Govinda,Manisha Koirala,Farha Naaz
+-1936,142 min,"Drama, Musical, Romance",6.5,114,Franz Osten,Devika Rani,Ashok Kumar,Monorama
+-2009,108 min,"Action, Crime, Mystery",5,677,Suparn Varma,Fardeen Khan,Dia Mirza,Manoj Bajpayee
+-2019,158 min,"Action, Adventure, Thriller",4.5,858,Sundar C.,Vishal,Tamannaah Bhatia,Aishwarya Lekshmi
+-2014,144 min,"Action, Crime, Thriller",3.3,"3,461",Prabhu Deva,Prabhas,Ajay Devgn,Sonakshi Sinha
+-2010,129 min,"Comedy, Romance, Sci-Fi",4.2,"5,814",Vipul Amrutlal Shah,Akshay Kumar,Aishwarya Rai Bachchan,Aditya Roy Kapoor
+-2010,120 min,"Action, Crime, Drama",3.6,49,Tanvir Ahmad,Ayaan Ahmad,Ayesha Jhulka,Rahul Roy
+-1958,139 min,"Drama, Musical, Romance",6.9,36,Kalidas,Nargis,Pradeep Kumar,Pran
+-1976,138 min,"Action, Drama, Family",6.4,284,Narendra Bedi,Amitabh Bachchan,Waheeda Rehman,Neetu Singh
+-1965,137 min,"Action, Drama, Mystery",6.6,28,Nanabhai Bhatt,Ashok Kumar,Ragini,Sailesh Kumar
+-1954,126 min,"Comedy, Drama, Romance",6.7,13,Mohan Segal,Usha Kiran,Kishore Kumar,Yashodra Katju
+-2001,151 min,"Action, Drama",5.4,533,Ravi Raja,Nagarjuna Akkineni,Ali,Mohan Babu
+-2007,88 min,Drama,4.7,11,Vimal Reddy,Tania Nazmeen Dean,Rajnel Prasad,Ratu Rakuita Tawake
+-2010,150 min,"Action, Comedy, Thriller",6.8,"2,393",V.V. Vinayak,N.T. Rama Rao Jr.,Nayanthara,Sheela Kaur
+-1983,130 min,"Biography, Drama",7.3,240,G.V. Iyer,Sarvadaman Banerjee,M.V. Narayana Rao,Manjunath Bhatt
+-1955,150 min,Drama,5,8,G.P. Sippy,Pradeep Kumar,Meena Kumari,D.K. Sapru
+-1990,145 min,"Action, Comedy, Fantasy",6.9,335,S.P. Muthuraman,Rajinikanth,Chinnijayanth,Jai Ganesh
+-2017,106 min,"Drama, Family, Horror",3.3,102,Sandeep Chatterjee,Nishat Mallick,Archana Kotwal,Ravi Kumar
+-1983,122 min,Drama,5.5,76,S.P. Muthuraman,Rajinikanth,Sridevi,Varalakshmi S.
+-2019,120 min,Adventure,6.6,12,Manoj Palrecha,Suvahhdan Angre,Neel Bakshi,Prachita Gujar
+-1978,151 min,Adventure,4.7,7,Homi Wadia,Nazneen,Jayshree T.,Raza Murad
+-1980,153 min,"Action, Adventure, Family",6.2,506,Latif Faiziyev,Umesh Mehra,Dharmendra,Hema Malini
+-1985,135 min,"Action, Adventure, Comedy",4.6,140,Babbar Subhash,Kimi Katkar,Dalip Tahil,Om Shivpuri
+-2011,82 min,"Documentary, Biography, Musical",7.9,13,Makarand Brahme,,,
+-2016,158 min,"Drama, Music, Musical",5.8,"21,661",Karan Johar,Ranbir Kapoor,Aishwarya Rai Bachchan,Anushka Sharma
+-2004,152 min,"Action, Drama, Musical",4.6,"1,013",Vikram Bhatt,Amitabh Bachchan,John Abraham,Bipasha Basu
+-1997,153 min,"Action, Comedy, Crime",4.5,"1,261",Guddu Dhanoa,Akshay Kumar,Urmila Matondkar,Anupam Kher
+-1986,134 min,"Adventure, Thriller",6.6,18,Deepak Balraj Vij,Anand Balraj,Sahila Chaddha,B.S. Dwarakish
+-1966,134 min,"Drama, Romance",6.5,12,Brij,Ashok Kumar,Pradeep Kumar,Padmini
+-1951,168 min,"Drama, Family",7.8,57,B.R. Chopra,Ashok Kumar,Veena,Jeevan
+-2001,195 min,"Drama, Romance",3.6,"1,025",J. Om Prakash,Aashish Kaul,Juni,Rahul Roy
+-1991,145 min,"Drama, Romance",5.9,783,M.R. Shahjahan,Aamir Khan,Neelam Kothari,Deepak Tijori
+-1950,121 min,"Comedy, Romance",7.1,19,Chetan Anand,Dev Anand,Suraiya,Ruma Guha Thakurta
+-2014,92 min,"Crime, Mystery",6.3,43,Ajay Govind,Udayan Banerjee,Akanksha D. Sharma,Sukhesh Arora
+-1983,161 min,"Drama, Family",6.4,152,Lekh Tandon,Rajesh Khanna,Rekha,Raj Babbar
+-1972,153 min,"Adventure, Comedy, Drama",6.6,30,A.P. Subbaraav,T.S. Balaiah,J.P. Chandrababu,Devagi
+-1977,139 min,"Action, Crime, Drama",5.7,84,Deepak Bahry,Mahendra Sandhu,Asha Sachdev,Iftekhar
+-2012,157 min,"Action, Adventure, Thriller",5.2,"7,210",Sriram Raghavan,Kareena Kapoor,Saif Ali Khan,Rajat Kapoor
+-1985,138 min,"Drama, Crime",7.1,120,Govind Nihalani,Om Puri,Bharat Gopy,Pankaj Kapur
+-1988,153 min,"Action, Drama, Romance",5.1,29,J. Om Prakash,Mithun Chakraborty,Chunky Panday,Amrita Singh
+-1997,142 min,Action,3.1,14,Raju Chouhan,Aparajita,Birbal,Dharmendra
+-1990,161 min,"Action, Crime, Drama",5.6,26,Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla,Masum Ali,Sadashiv Amrapurkar
+-1990,174 min,"Action, Crime, Drama",7.7,"8,500",Mukul Anand,Amitabh Bachchan,Mithun Chakraborty,Madhavi
+-2012,174 min,"Action, Crime, Drama",6.9,"22,895",Karan Malhotra,Hrithik Roshan,Priyanka Chopra Jonas,Sanjay Dutt
+-1997,137 min,Action,7.8,33,Anand P. Raju,Saroja Devi B.,Saikumar,Ranjitha
+-1981,130 min,"Crime, Drama",6,22,Kamal Majumdar,Amol Palekar,Parikshit Sahni,Rameshwari
+-1996,142 min,"Drama, Musical, Romance",6.1,684,Partho Ghosh,Jackie Shroff,Nana Patekar,Manisha Koirala
+-1997,123 min,Action,3.6,53,Ketan Anand,Amit Suryavanshi,Naseeruddin Shah,Govinda
+-2000,140 min,Action,4.6,24,Vijay Reddy,Asrani,Mithun Chakraborty,Pinky Chinoy
+-2002,126 min,"Drama, Fantasy, Romance",4.6,361,Arjun Sajnani,Jackie Shroff,Kumar Iyengar,Raveena Tandon
+-1980,124 min,"Musical, Comedy, Drama",6.2,19,Anil Ganguly,Rekha,Utpal Dutt,Shailendra Singh
+-2009,130 min,"Drama, Horror, Mystery",2.9,620,Ram Gopal Varma,Nithiin,Priyanka Kothari,Rasika Dugal
+-2019,81 min,"Comedy, Drama",7.2,213,Nikhil Pherwani,Arif Zakaria,Niharika Singh,Abuli Mamaji
+-1995,145 min,Drama,5.9,53,Ashim S. Samanta,Mithun Chakraborty,Mamta Kulkarni,Prem Chopra
+-1979,103 min,"Action, Drama",4.1,10,Chand,Sunil Dutt,Rekha,Ranjeet
+-1981,141 min,"Musical, Romance",7,45,Esmayeel Shroff,Parveen Babi,Suresh Chatwal,Aruna Irani
+-2006,122 min,"Drama, Romance",7,"1,491",Shivam Nair,Abhay Deol,Soha Ali Khan,Shayan Munshi
+-1979,144 min,"Drama, Romance",5.7,38,Surindara Suri,Shashi Kapoor,Simi Garewal,Rakesh Bedi
+-2016,130 min,"Drama, History",8,"53,897",Raja Menon,Akshay Kumar,Nimrat Kaur,Kumud Mishra
+-2015,120 min,Drama,6.6,52,Biswajeet Bora,Yashpal Sharma,Ira Dubey,Tinnu Anand
+-2010,126 min,"Comedy, Drama, Romance",5,"3,953",Rajshree Ojha,Sonam Kapoor,Abhay Deol,Amrita Puri
+-1996,132 min,"Comedy, Romance",6.6,68,Sachin Pilgaonkar,Sachin,Sachin Pilgaonkar,Vivek Mushran
+-2009,125 min,"Action, Comedy, Drama",4.1,7,Abdul Qayyoom Khan,Sarvar Ahuja,Preeti Arora,Pankaj Berry
+-1985,133 min,"Romance, Thriller",6.9,149,Mukul Anand,Raj Babbar,Dimple Kapadia,Danny Denzongpa
+-2004,160 min,"Drama, Romance, Thriller",6.6,"9,721",Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla,Akshay Kumar,Kareena Kapoor
+-2018,157 min,"Action, Drama, Thriller",5.3,"4,167",Neeraj Pandey,Sidharth Malhotra,Manoj Bajpayee,Rakul Preet Singh
+-2012,152 min,"Comedy, Romance",4.4,"1,765",Sachin Kundalkar,Rani Mukerji,Prithviraj Sukumaran,Nirmiti Sawant
+-2012,116 min,"Comedy, Romance",4.2,520,Sanjay Gadhvi,Jackky Bhagnani,Nidhi Subbaiah,Darshan Jariwala
+-2009,150 min,"Action, Comedy, Romance",6.4,"13,194",Rajkumar Santoshi,Ranbir Kapoor,Katrina Kaif,Darshan Jariwala
+-2017,115 min,Drama,5.8,52,Rishi Prakash Mishra,Ajay Kumar Singh,Vikas Giri,Rajesh Jais
+-1974,139 min,"Drama, Romance",6.5,174,Shakti Samanta,Rajesh Khanna,Zeenat Aman,Prem Chopra
+-1996,146 min,"Action, Drama, Romance",3.7,187,Suneel Darshan,Sunny Deol,Karisma Kapoor,Reena Roy
+-2021,142 min,"Drama, Romance",6.7,"4,133",Neeraj Ghaywan,Kayoze Irani,Shashank Khaitan,Raj Mehta
+-2017,104 min,Drama,6.9,973,Devashish Makhija,Sushama Deshpande,Smita Tambe,Sharvani Suryavanshi
+-2001,165 min,"Action, Crime, Drama",6.4,"8,164",Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla,Akshay Kumar,Bobby Deol
+-1991,178 min,"Action, Adventure, Comedy",5.3,"1,214",Shashi Kapoor,Gennadiy Vasilev,Amitabh Bachchan,Dimple Kapadia
+-2004,125 min,"Action, Thriller",5,39,Raam Shetty,Aditya,Sheetal Bavishi,Om Puri
+-2020,108 min,"Action, Comedy, Crime",6.9,"12,429",Vikramaditya Motwane,Anil Kapoor,Anurag Kashyap,Sonam Kapoor
+-2013,149 min,"Drama, Romance",6.3,"1,857",Luv Ranjan,Kartik Aaryan,Nushrat Bharucha,Sunny Singh Nijjar
+-1965,136 min,Drama,6.6,32,Phani Majumdar,Dharmendra,Mehmood,Ashok Kumar
+-1991,180 min,"Action, Drama, Thriller",5,421,Ramesh Sippy,Amitabh Bachchan,Jackie Shroff,Amrita Singh
+-1979,139 min,"Drama, History, Musical",7.7,38,N.T. Rama Rao,N.T. Rama Rao,Nandamuri Balakrishna,Unni Mary
+-2014,58 min,Thriller,5.5,10,Abrar,Adil Ahamad,Roman Ajaz,Casim Bilal
+-1995,160 min,Drama,7,"4,780",Mansoor Khan,Aamir Khan,Manisha Koirala,Master Adil
+-1999,165 min,Romance,5.6,11,Vinod Pande,Perena Agarwal,Nandini Ghosal,Brij Gopal
+-2002,146 min,"Comedy, Romance",5.1,881,Harmesh Malhotra,Govinda,Raveena Tandon,Kader Khan
+-1989,132 min,"Action, Drama",5.3,13,Sudesh Issar,Shashi Kapoor,Rajan Sippy,Suresh Oberoi
+-2001,184 min,"Action, Crime, Horror",5.8,"1,627",Rakeysh Omprakash Mehra,Amitabh Bachchan,Raveena Tandon,Manoj Bajpayee
+-2006,135 min,"Drama, Romance, Thriller",4.8,"1,152",Ananth Narayan Mahadevan,Emraan Hashmi,Udita Goswami,Dino Morea
+-2017,127 min,"Crime, Drama, Mystery",3.6,417,Ananth Narayan Mahadevan,Zareen Khan,Gautam Rode,Lillete Dubey
+-1977,160 min,"Drama, Musical",6.7,327,Hrishikesh Mukherjee,Amitabh Bachchan,Rekha,Chhayadevi
+-1952,144 min,"Adventure, Fantasy",5.9,15,Homi Wadia,Mahipal,Meena Kumari,S.N. Tripathi
+-2009,132 min,"Action, Adventure, Comedy",4.6,"2,839",Sujoy Ghosh,Amitabh Bachchan,Sanjay Dutt,Riteish Deshmukh
+-1985,174 min,"Family, Musical, Romance",6.4,86,Shakti Samanta,Rajesh Khanna,Shashi Kapoor,Tina Ambani
+-2006,123 min,"Action, Drama, Fantasy",3.8,"1,172",Ashu Trikha,Akshay Kapoor,Dia Mirza,Yatin Karyekar
+-2019,136 min,Comedy,6.9,7,Uttar Kumar,Vikas Balian,Usha Devi,Monu Dhankad
+-1973,124 min,Drama,6.8,8,Nanubhoy Vakil,Nazima,Ajit Sachdev,Paidi Jairaj
+-1979,144 min,"Adventure, Drama, Fantasy",6.6,161,I.V. Sasi,Kamal Haasan,Rajinikanth,Jayabharati
+-2001,145 min,"Comedy, Drama, Romance",3.7,737,Deepak Sareen,Govinda,Aishwarya Rai Bachchan,Jackie Shroff
+-1951,158 min,"Comedy, Drama, Musical",7,82,Master Bhagwan,Geeta Bali,Master Bhagwan,Badri Prasad
+-1980,110 min,"Comedy, Drama, Romance",7.5,428,Saeed Akhtar Mirza,Naseeruddin Shah,Shabana Azmi,Smita Patil
+-2019,100 min,Drama,5.5,349,Soumitra Ranade,Manav Kaul,Nandita Das,Amarjeet Amle
+-2019,109 min,Drama,5.9,37,Irene Zoe Alameda,Aitana Sánchez-Gijón,Aida Folch,Rohit Choudhary
+-1966,154 min,"Adventure, Fantasy, Romance",6.4,14,Homi Wadia,Sanjeev Kumar,L. Vijayalakshmi,David Abraham
+-1954,145 min,"Action, Adventure, Drama",6.2,46,Homi Wadia,Shakila,Mahipal,B.M. Vyas
+-1977,163 min,"Action, Adventure",6.7,27,Kedar Kapoor,Urmila Bhatt,Birbal,Jagdeep
+-2017,120 min,Drama,6.5,137,Zaigham Imam,Neelima Azim,Pawan Tiwari,Bhavna Pani
+-1953,135 min,Fantasy,6.3,11,K. Amarnath,Nimmi,Asha Mathur,Pran
+-2015,114 min,"Biography, Drama",7.8,"6,402",Hansal Mehta,Manoj Bajpayee,Rajkummar Rao,Ashish Vidyarthi
+-2015,126 min,"Comedy, Drama, Romance",3.8,"1,513",Umesh Shukla,Rishi Kapoor,Abhishek Bachchan,Asin Thottumkal
+-2020,97 min,Thriller,7.9,384,Akhil Gautam,Akhil Gautam,Ajay Bafna,Vikas Sachdeva
+-1984,128 min,"Action, Drama",4.8,31,Mohan Kumar,Kumar Gaurav,Rati Agnihotri,Vinod Mehra
+-2009,144 min,"Action, Comedy, Drama",6.2,"5,786",Rohit Shetty,Sanjay Dutt,Ajay Devgn,Fardeen Khan
+-2010,123 min,"Action, Crime, Drama",6.1,303,Faruk Kabir,Varun Bhagwat,Virendra Giri,Vikram Gokhale
+-1997,149 min,Comedy,4.3,7,Ravindra Arora,Zahid Ali,Shakti Kapoor,Kader Khan
+-1986,160 min,"Action, Drama",5.4,132,Ketan Desai,Jackie Shroff,Shammi Kapoor,Waheeda Rehman
+-2015,133 min,Horror,3.7,"1,622",Bhushan Patel,Bipasha Basu,Karan Singh Grover,Sulabha Arya
+-2011,126 min,"Comedy, Crime, Drama",4,"1,295",Roshan Abbas,Lillete Dubey,Satyajeet Dubey,Ali Fazal
+-1994,140 min,"Action, Drama",4.7,552,Raj N. Sippy,Sanjay Dutt,Akshay Kumar,Heera Rajgopal
+-1967,152 min,"Adventure, Drama, Romance",6.5,41,Mohan Kumar,Rajendra Kumar,Saira Banu,Balraj Sahni
+-2016,137 min,Action,6.6,23,Kader Kashmiri,Sonia Albizuri,Dev Anand,Bob Christo
+-1975,153 min,"Drama, Family",7,232,Shakti Samanta,Uttam Kumar,Sharmila Tagore,Prema Narayan
+-1954,149 min,"Drama, Musical, Romance",6.8,162,Mehboob Khan,Madhubala,Nimmi,Dilip Kumar
+-1958,148 min,"Musical, Romance",6.6,38,T. Prakash Rao,Dev Anand,Vyjayanthimala,Padmini
+-1936,166 min,Drama,6.1,17,Shantaram Rajaram Vankudre,Durga Khote,Shanta Apte,Vasanti
+-1972,143 min,"Drama, Musical, Romance",8.2,"1,592",Shakti Samanta,Rajesh Khanna,Sharmila Tagore,Sujit Kumar
+-2020,143 min,Drama,4.4,25,Tanveer Hashmi,Chandrima Banerjee,Kundan Bhardwaj,Sufi
+-1961,121 min,Drama,6.5,14,Prabhu,Rajendra Kumar,Nalini Jaywant,Nanda
+-1978,133 min,"Action, Adventure, Comedy",4.9,16,Harmesh Malhotra,Shashi Kapoor,Shatrughan Sinha,Sulakshana Pandit
+-1977,184 min,"Action, Comedy, Drama",7.5,"7,336",Manmohan Desai,Vinod Khanna,Rishi Kapoor,Amitabh Bachchan
+-2019,134 min,"Horror, Thriller",2.8,308,Bhushan Patel,Ali Asgar,Ali Asgar,Vivan Bhatena
+-1990,153 min,Family,4.2,41,Mohan Kumar,Shabana Azmi,Anil Kapoor,Meenakshi Sheshadri
+-1952,141 min,"Action, Adventure, Drama",6.9,65,Jayant Desai,Nargis,Raj Kapoor,Agha
+-2013,95 min,Mystery,4.4,16,Apurv Bajpai,Rohan Jardosh,Ishita Salot,Gunjan Vyas
+-2001,100 min,"Comedy, Drama, Romance",6.6,"1,585",Piyush Dinker Pandya,Deep Katdare,Ronobir Lahiri,Purva Bedi
+-1974,140 min,"Action, Thriller",6.6,90,Mohan Kumar,Dev Anand,Hema Malini,Prem Nath
+-1990,155 min,Family,4.9,47,Harmesh Malhotra,Jeetendra,Rekha,Rishi Kapoor
+-2014,110 min,"Comedy, Romance",5.4,347,Ajay Bhuyan,Vir Das,Vega Tamotia,Anindita Nayar
+-1986,135 min,Drama,6.2,11,Jiten,Rakhee Gulzar,Mithun Chakraborty,Suresh Oberoi
+-2001,110 min,"Drama, Fantasy, Thriller",5.6,7,C.H. Balaji Singh Babu,Dhamini,Kumar Govind,Prema
+-2021,117 min,"Comedy, Drama",8.1,871,Narayan Chauhan,Sanjay Mishra,Hrishitaa Bhatt,Master Aniket
+-1966,119 min,"Musical, Fantasy",6.6,194,Lekh Tandon,Vyjayanthimala,Sunil Dutt,Prem Nath
+-1986,137 min,"Drama, Family",7,169,Mohan Kumar,Rajesh Khanna,Smita Patil,Aruna Irani
+-2005,102 min,Drama,7.3,856,Shonali Bose,Konkona Sen Sharma,Yashpal Sharma,Brinda Karat
+-2018,72 min,Documentary,8.4,11,Hemant Gaba,,,
+-1967,168 min,"Musical, Romance, Thriller",6.9,328,Shakti Samanta,Shammi Kapoor,Sharmila Tagore,Sarita
+-1968,57 min,Documentary,7.1,25,S. Sukhdev,,,
+-2016,96 min,"Documentary, Thriller",8.7,"1,928",Khushboo Ranka,Vinay Shukla,Arvind Kejriwal,Saurabh Bhardwaj
+-2017,113 min,Drama,5.9,"1,636",Avinash Das,Pankaj Tripathi,Swara Bhaskar,Sanjay Mishra
+-1973,125 min,"Mystery, Romance, Musical",7.1,278,Raghunath Jhalani,Sanjeev Kumar,Jaya Bachchan,Iftekhar
+-1971,122 min,"Drama, Musical",8.3,"31,937",Hrishikesh Mukherjee,Rajesh Khanna,Amitabh Bachchan,Sumita Sanyal
+-1952,176 min,"Biography, Drama, History",7.6,85,Hemen Gupta,Prithviraj Kapoor,Geeta Bali,Ranjana
+-1977,127 min,"Drama, Family",7.1,140,Shakti Samanta,Ashok Kumar,Uttam Kumar,Sharmila Tagore
+-1959,166 min,"Comedy, Drama, Musical",7.9,740,Hrishikesh Mukherjee,Raj Kapoor,Nutan,Lalita Pawar
+-1993,171 min,"Comedy, Drama, Romance",4.8,429,K. Muralimohana Rao,Rakhee Gulzar,Venkatesh Daggubati,Karisma Kapoor
+-1975,144 min,"Drama, Romance",6.2,36,Asit Sen,Shashi Kapoor,Sharmila Tagore,Moushumi Chatterjee
+-1999,169 min,Comedy,5,636,Kuku Kohli,Govinda,Raveena Tandon,Simran
+-1953,175 min,"History, Musical, Romance",7.2,72,Nandlal Jaswantlal,Bina Rai,Pradeep Kumar,Kuldip Kaur
+-2016,93 min,"Crime, Drama",5.4,54,Deepa Mehta,Vansh Bhardwaj,Tia Bhatia,Janki Bisht
+-2003,145 min,"Drama, Musical, Romance",5.3,"2,359",Raj Kanwar,Akshay Kumar,Lara Dutta,Priyanka Chopra Jonas
+-1949,148 min,"Musical, Drama, Crime",7.2,498,Mehboob Khan,Nargis,Dilip Kumar,V.H. Desai
+-1971,166 min,"Drama, Romance",6.7,275,Ramesh Sippy,Shammi Kapoor,Rajesh Khanna,Hema Malini
+-1994,167 min,"Action, Comedy, Drama",4.4,402,David Dhawan,Anil Kapoor,Juhi Chawla,Karisma Kapoor
+-1994,160 min,"Action, Comedy, Romance",8.1,"50,810",Rajkumar Santoshi,Aamir Khan,Salman Khan,Raveena Tandon
+-1990,148 min,"Action, Drama",6.8,16,Shakti Samanta,Mithun Chakraborty,Mandakini,Tanuja
+-1985,144 min,"Action, Crime, Drama",6.8,53,Major Sundarrajan,Kamal Haasan,Urvashi,Y.G. Mahendran
+-1983,155 min,"Action, Drama",6.1,666,Rama Rao Tatineni,Amitabh Bachchan,Rajinikanth,Hema Malini
+-2018,139 min,"Crime, Drama, Music",8.2,"77,901",Sriram Raghavan,Ayushmann Khurrana,Tabu,Radhika Apte
+-1975,110 min,"Crime, Drama, Thriller",5.1,30,Shyam Ramsay,Tulsi Ramsay,Sameer Khan,Vani Ganpati
+-1986,129 min,"Comedy, Drama",6.8,56,Dada Kondke,Dada Kondke,Usha Chavan,Dina Pathak
+-1984,152 min,"Drama, Thriller",5.5,13,Buddhadev Dasgupta,Deepti Naval,Mahesh Bhatt,Anil Chatterjee
+-1995,165 min,"Action, Comedy, Drama",5,249,Aziz Sejawal,Ishrat Ali,Somy Ali,Divya Bharti
+-1992,176 min,"Action, Crime, Drama",6.4,297,Shashilal K. Nair,Jackie Shroff,Dimple Kapadia,Nana Patekar
+-1996,127 min,"Action, Crime",4.3,30,Anil Ganguly,Sadashiv Amrapurkar,Suresh Bhagwat,Hemant Birje
+-1998,141 min,"Action, Crime, Drama",5.3,793,Mahesh Bhatt,Akshay Kumar,Nagarjuna Akkineni,Pooja Bhatt
+-2011,114 min,"Action, Drama",6.3,84,Ganesh Acharya,Sumit Arora,Arun,Raakesh Babu
+-1982,131 min,Comedy,8.3,"4,924",Gulzar,Sanjeev Kumar,Moushumi Chatterjee,Deven Verma
+-2005,106 min,Drama,6.1,53,Kanti Shah,Sapna Sappu,Rajesh Sabharwal,Amit Pachori
+-1995,116 min,"Action, Romance",4.4,167,Ravi Raja Pinisetty,Sunny Deol,Pooja Bhatt,Rami Reddy
+-2020,145 min,"Comedy, Drama",7.3,"11,700",Homi Adajania,Irrfan Khan,Radhika Madan,Kareena Kapoor
+-2015,121 min,"Comedy, Drama",7,"2,749",Pan Nalin,Sarah Jane Dias,Rajshri Deshpande,Sandhya Mridul
+-1960,153 min,"Action, Adventure, Drama",6.1,28,Vijay Bhatt,Nimmi,Bharat Bhushan,Anita Guha
+-1952,155 min,"Drama, Romance, Thriller",7.2,77,Khwaja Ahmad Abbas,Nargis,Raj Kapoor,Agha
+-1973,127 min,"Drama, Romance, Thriller",7.1,40,Ravi Tandon,Sanjeev Kumar,Leena Chandavarkar,Padma Khanna
+-1967,154 min,"Musical, Thriller, Mystery",6.4,120,Raj Khosla,Sadhana,Manoj Kumar,I.S. Johar
+-1987,136 min,Thriller,5.3,12,T. Hariharan,Rajan Sippy,Parijat,Shashi Kapoor
+-1994,170 min,"Drama, Thriller",6.9,"6,093",Rahul Rawail,Madhuri Dixit,Shah Rukh Khan,Tinnu Anand
+-1969,152 min,Romance,5.6,48,Mohan Kumar,Rajendra Kumar,Babita Kapoor,Pran
+-2010,151 min,"Comedy, Drama, Musical",5.8,"6,416",Siddharth Anand,Priyanka Chopra Jonas,Aubrey K. Miller,Ranbir Kapoor
+-2005,110 min,Horror,3.9,71,Harryy W. Fernaandes,Manisha Koirala,Sanjay Kapoor,Helen
+-1969,133 min,"Action, Comedy, Crime",5.8,12,Babubhai Mistry,Feroz Khan,Nalini,Helen
+-2003,168 min,"Action, Crime, Drama",3.4,363,N. Maharajan,Ajith Kumar,Meera Jasmine,Raghuvaran
+-2009,143 min,"Action, Comedy, Crime",4.8,324,Parasuram,Ravi Teja,Nayanthara,Kota Srinivasa Rao
+-1985,135 min,Drama,7.1,109,Amol Palekar,Amol Palekar,Deepti Naval,Devika Mukherjee
+-2006,151 min,"Biography, Drama, Romance",4.1,366,Vikram Bhatt,Aftab Shivdasani,Ameesha Patel,Esha Deol
+-1968,172 min,"Action, Adventure, Drama",7.2,325,Ramanand Sagar,Mala Sinha,Dharmendra,Kumkum
+-2013,107 min,"Comedy, Drama",8,"10,673",Rajat Kapoor,Sanjay Mishra,Seema Bhargava,Rajat Kapoor
+-1997,151 min,Romance,5.5,46,Ashim S. Samanta,Anuraag,Rakhee Gulzar,Satyendra Kapoor
+-2013,129 min,"Drama, Thriller",6.5,"1,823",Sohail Tatari,Kay Kay Menon,Visshesh Tiwari,Tisca Chopra
+-1974,131 min,Drama,8,"1,185",Shyam Benegal,Shabana Azmi,Sadhu Meher,Anant Nag
+-1986,149 min,"Action, Drama",7.5,398,N. Chandra,Nana Patekar,Rabia Amin,Gajanan Bangera
+-1993,163 min,"Drama, Family, Romance",5.6,128,Ketan Desai,Maya Alagh,Sudha Chopra,Anil Dhawan
+-1946,122 min,"Drama, Musical, Romance",7.3,63,Mehboob Khan,Surendra,Suraiya,Noor Jehan
+-1982,153 min,Drama,7,5,Geethapriya,Master Baboo,Rakesh Bedi,Ramesh Deo
+-1978,77 min,"Drama, Family",7.9,9,Satyen Bose,Preeti Ganguli,Anoop Kumar,Birbal
+-2016,142 min,Biography,4.9,43,Shashank Udapurkar,Shashank Udapurkar,Tanishaa Mukerji,Govind Namdeo
+-1971,148 min,Drama,7.1,29,K. Thankappan,Jayalalitha J,Gemini Ganesan,Padmini
+-1992,164 min,"Action, Drama",7.7,"1,765",Suresh Krishna,Rajinikanth,Sarath Babu,Kushboo
+-1975,132 min,"Action, Comedy, Crime",4.9,18,Jugal Kishore,Shatrughan Sinha,Zarina Wahab,A.K. Hangal
+-1989,91 min,Comedy,6.3,13,Mukesh Sharma,Ankur,Ajay Chadha,Paintal
+-1982,134 min,Drama,7.4,94,Mehul Kumar,Shabana Azmi,Seema Deo,Aruna Irani
+-1972,125 min,Drama,6.3,19,Jagannath Chatterjee,Dharmendra,Pranoti Ghosh,Brahm Bhardwaj
+-2000,86 min,"Drama, Family",6.9,16,Tapan Sinha,Arjun Chakraborty,Nayab Aftab,Radhika Jajodia
+-2006,154 min,History,6.6,9,Jaswinder Chahal,Deep Dhillon,Jaswant Saggo Jas,Kashish
+-1948,141 min,"Drama, Musical, Romance",6.4,26,Mehboob Khan,Naseem Banu,Surendra,Prem Adib
+-1973,150 min,"Drama, Romance",4.5,44,Kundan Kumar,Jeetendra,Rekha,Vinod Khanna
+-1968,120 min,"Crime, Drama, Mystery",7.3,94,Asit Sen,Sanjeev Kumar,Zaheeda,Tarun Bose
+-1962,150 min,"Drama, Musical, Romance",6.6,105,Mohan Kumar,Mala Sinha,Balraj Sahni,Dharmendra
+-2002,180 min,"Crime, Drama, Thriller",6.3,51,Rajan Johri,Om Puri,Ashutosh Rana,Abbas
+-1969,145 min,"Drama, Family",7.2,26,Satyen Bose,Ashok Kumar,Deb Mukherjee,Alka
+-2008,114 min,"Crime, Drama",7.3,656,Sushil Rajpal,Raj Singh Chaudhary,Raja Chaudhary,Swati Sen
+-1991,160 min,Drama,5.5,109,Shyam Benegal,Girish Karnad,Kulbhushan Kharbanda,Shabana Azmi
+-2021,84 min,Drama,7.1,7,Shoib Nikash Shah,Imran Khan,Imran Khan,Azmat Khwaja
+-1994,136 min,Action,4.4,124,Sanjay Khanna,Sunil Shetty,Somy Ali,Paresh Rawal
+-2006,127 min,"Mystery, Thriller",5.2,617,Raj Kaushal,Sanjay Dutt,Arshad Warsi,Minissha Lamba
+-1971,139 min,Drama,6.7,137,Basu Bhattacharya,Sanjeev Kumar,Tanuja,Dinesh Thakur
+-2003,90 min,Crime,3.4,11,Sandeep Kumar,Afrin,Amit,Neel Arvind
+-1966,148 min,"Drama, Romance",7.4,416,Hrishikesh Mukherjee,Dharmendra,Sharmila Tagore,Shashikala
+-1972,125 min,Drama,6.6,115,Shakti Samanta,Ashok Kumar,Nutan,Vinod Mehra
+-1960,141 min,"Drama, Romance",6.6,196,Hrishikesh Mukherjee,Balraj Sahni,Leela Naidu,Abhi Bhattacharya
+-2006,113 min,"Drama, Romance",6.7,376,Aniruddha Roy Chowdhury,Rahul Bose,Rituparna Sengupta,Raima Sen
+-1977,147 min,"Drama, Family",6.8,160,Shakti Samanta,Rajesh Khanna,Ashok Kumar,Vinod Mehra
+-2007,144 min,"Drama, Romance, Thriller",6.6,904,Manish Jha,Nauheed Cyrusi,Pankaj Jha,Manisha Koirala
+-2015,154 min,"Biography, Drama, Music",5.4,"5,733",Remo D'Souza,Prabhu Deva,Varun Dhawan,Shraddha Kapoor
+-1985,125 min,Action,7.4,5,Shakti Samanta,,,
+-1993,137 min,Action,5.7,6,V. Subba Rao,Aatish Devgan,Sabah,Rita Bhaduri
+-2005,173 min,"Action, Crime, Drama",7.4,"4,384",Prakash Jha,Ajay Devgn,Nana Patekar,Bipasha Basu
+-2010,97 min,"Drama, Mystery, Thriller",3.5,231,Jag Mundhra,Rohit Roy,Tanushree Dutta,Neetu Chandra
+-2007,110 min,"Drama, Sci-Fi",6.2,164,Kaushik Roy,Irrfan Khan,Shobana,Dhruv Piyush Panjuani
+-2001,152 min,Drama,5.9,16,K. Subhash,Prabhu Deva,Kirti Reddy,
+-1960,173 min,Comedy,6.8,25,Mohan Segal,Kishore Kumar,Sayeeda Khan,Nasir Hussain
+-2006,134 min,"Comedy, Musical, Romance",5.3,"1,921",Sangeeth Sivan,Riteish Deshmukh,Shreyas Talpade,Riya Sen
+-1977,133 min,"Drama, Romance",6.5,75,J. Om Prakash,Jeetendra,Sanjeev Kumar,Reena Roy
+-2007,173 min,"Drama, Sport",6,"2,868",Anil Sharma,Dharmendra,Sunny Deol,Bobby Deol
+-1996,155 min,"Action, Drama",5.6,43,Arshad Khan,Mithun Chakraborty,Shilpa Shirodkar,Irfan Kamal
+-1975,120 min,"Crime, Drama, Mystery",6.2,13,Kailash Bhandari,Dharmendra,Sanjeev Kumar,Rakesh Pandey
+-1980,123 min,"Drama, Family, Comedy",6.8,164,Basu Chatterjee,Shabana Azmi,Amol Palekar,Girish Karnad
+-1975,124 min,"Drama, Romance",6.1,14,Ravi Tandon,Sanjeev Kumar,Leena Chandavarkar,Danny Denzongpa
+-1972,128 min,"Action, Thriller, Romance",6.8,71,Feroz Khan,Feroz Khan,Mumtaz,Prem Chopra
+-1974,122 min,Drama,7.3,6,Jugal Kishore,Kiran Kumar,Yogeeta Bali,Imtiaz
+-1957,131 min,Mystery,7.5,68,Asit Kumar Sen,Abhi Bhattacharya,Mala Sinha,Gajanan Jagirdar
+-1964,154 min,"Comedy, Romance, Thriller",6.1,32,Subodh Mukherji,Saira Banu,Biswajit Chatterjee,Jayant
+-2012,74 min,"Animation, Adventure",3.1,75,Ivan Oneka,Gorka Vázquez,,
+-1969,169 min,"Drama, Musical, Romance",7.6,"1,722",Shakti Samanta,Rajesh Khanna,Sharmila Tagore,Sujit Kumar
+-1994,90 min,Drama,6.5,50,Apurba Kishore Bir,Mohan Gokhale,Yagnaseni Jena,Sanjana Kapoor
+-1983,130 min,"Crime, Drama",8.2,"1,599",Govind Nihalani,Om Puri,Smita Patil,Amrish Puri
+-1985,154 min,"Action, Crime, Drama",7.2,866,Rahul Rawail,Sunny Deol,Dimple Kapadia,Raj Kiran
+-2001,133 min,"Action, Crime, Musical",3.6,21,Imran Khan,Mithun Chakraborty,Puru Rajkumar,Rutika Singh
+-1999,150 min,"Action, Crime, Romance",5.2,797,Rahul Rawail,Sunny Deol,Juhi Chawla,Saurabh Shukla
+-2019,107 min,"Action, Comedy",4.3,"1,204",Rohit Jugraj,Diljit Dosanjh,Kriti Sanon,Varun Sharma
+-2012,96 min,"Animation, Action, Adventure",6.8,"1,534",Arnab Chaudhuri,Pavan Buragohain,K.K. Raina,Yudhveer Bakoliya
+-1953,130 min,"Drama, Family",6.8,19,Fali Mistry,Dev Anand,Madhubala,Shakila
+-2003,158 min,"Drama, Family, Romance",5.2,"1,096",Honey Irani,Amitabh Bachchan,Anil Kapoor,Preity Zinta
+-1996,153 min,"Action, Drama",4.3,"1,614",Raam Shetty,Sridevi,Shah Rukh Khan,Harish
+-2010,126 min,"Drama, Family, Music",5.3,9,Pinaki Chaudhuri,Rituparna Sengupta,Samadarshi Dutta,Soumitra Chatterjee
+-1967,178 min,"Comedy, Romance",6.3,97,Pachhi,Raj Kapoor,Rajshree,Ameeta
+-1983,144 min,"Drama, Romance",6.2,74,J. Om Prakash,Jeetendra,Reena Roy,Parveen Babi
+-1982,138 min,"Drama, Romance",7.9,"1,308",Mahesh Bhatt,Shabana Azmi,Kulbhushan Kharbanda,Smita Patil
+-2019,130 min,"Crime, Drama, Mystery",8.2,"25,706",Anubhav Sinha,Ayushmann Khurrana,Nassar,Manoj Pahwa
+-1978,118 min,Drama,6.9,137,Saeed Akhtar Mirza,Dilip Dhawan,Anjali Paigankar,Shreeram Lagoo
+-1988,181 min,"Action, Drama",7,283,Priyadarshan,Mohanlal,Ramya Krishnan,Bob Christo
+-2006,135 min,"Action, Drama, Sport",4.4,307,Abhishek Kapoor,Sohail Khan,Sneha Ullal,Inder Kumar
+-1950,128 min,"Musical, Romance",7,49,Shaheed Latif,Kamini Kaushal,Dilip Kumar,Shashikala
+-1965,177 min,"Drama, Musical, Romance",7.1,243,Ramanand Sagar,Rajendra Kumar,Sadhana,Feroz Khan
+-2004,139 min,"Action, Adventure, Drama",3.4,577,Rajiv Rai,Arjun Rampal,Naseeruddin Shah,Priyanka Chopra Jonas
+-2012,105 min,"Documentary, History",6.7,81,Jan Schmidt-Garre,B.K.S. Iyengar,Patthabi Jois,Sri T. Krishnamacharya
+-2018,90 min,"Drama, Romance",4.9,542,Samit Kakkad,Priyanka Bose,Vaibhav Raj Gupta,Ankit Raaj
+-1984,142 min,"Drama, Family, Romance",6.3,44,Narayana Rao Dasari,Rajesh Khanna,Reena Roy,Rekha
+-1993,141 min,"Action, Thriller",5.2,522,Keshu Ramsay,Akshay Kumar,Vishnuvardhan,Ashwini Bhave
+-1952,104 min,"Drama, Romance",7.6,49,B. Trilochan,Nargis,Raj Kapoor,Shivraj
+-2017,103 min,Thriller,3.7,12,Kewal Singh,Rishi Bhutani,Dolly Chawla,Gurleen Chopra
+-2010,86 min,Action,4.8,8,S.P. Muneshwar,Rajan Verma,Sudesh Berry,Arun Bakshi
+-2018,97 min,Drama,9.3,7,Rahul Mallick,Kunj Anand,Sanjay Bishnoi,Paras Zutshi
+-2001,180 min,"Action, Biography, Drama",6.5,"13,502",Santosh Sivan,Shah Rukh Khan,Kareena Kapoor,Danny Denzongpa
+-2011,70 min,Animation,6.6,10,Gaurav Jain,,,
+-1986,128 min,Drama,4.3,38,Sudarshan Nag,Shatrughan Sinha,Rajinikanth,Anita Raj
+-1962,145 min,"Drama, Musical, Romance",7.5,257,Hrishikesh Mukherjee,Dev Anand,Sadhana,Nasir Hussain
+-2000,109 min,Drama,7.3,645,Mahesh Manjrekar,Tabu,Sachin Khedekar,Mohnish Bahl
+-2020,102 min,Family,7.3,33,Priyanka Singh,Mansinghms,Indu Prasad,Man Singh
+-2009,70 min,Documentary,7,12,Nishtha Jain,,,
+-2012,120 min,"Comedy, Musical",5.4,86,Rajpal Yadav,Asrani,Amit Behl,Lankesh Bhardwaj
+-2018,127 min,Drama,8.8,5,Abdul Sattar,Sahil Akhtar,Himayat Ali,Aman Jain
+-2020,120 min,Thriller,4.3,204,Tanuj Bhramar,Rajeev Khandelwal,Priyamani,Sanjay Suri
+-2005,127 min,"Action, Adventure, Comedy",5.4,278,Vinayan,Ajaykumar,Prithviraj Sukumaran,Mallika Kapoor
+-2007,300 min,Action,5.6,"1,807",Surender Reddy,Mahesh Babu,Amrita Rao,Ajay
+-1990,165 min,"Crime, Drama",2.9,36,Mukhtar Ahmed,Shatrughan Sinha,Anita Raj,Aditya Pancholi
+-1978,138 min,"Drama, Romance",6,20,Aravind Sen,Shashi Kapoor,Shabana Azmi,Shatrughan Sinha
+-2020,135 min,Comedy,5.9,7,Vipin k Sethie,Manoj Bakshi,Vipin k Sethie,Avnish Pawar
+-2010,155 min,Comedy,6.4,"5,383",Ashwani Dhir,Ajay Devgn,Konkona Sen Sharma,Paresh Rawal
+-2020,126 min,"Drama, Musical",8.2,"1,763",Shiv Hare,Lydian Nadhaswaram,Sachin Chaudhary,Tamanna Dipak
+-2013,171 min,"Biography, Crime, Thriller",6.9,138,A.M.R. Ramesh,Kishore Kumar G.,Arjun Sarja,Raai Laxmi
+-1968,142 min,"Comedy, Drama",5.3,25,Kundan Kumar,Jeetendra,Babita Kapoor,Mehmood
+-1993,152 min,Drama,3.8,36,Rajkumar Kohli,Vikas Anand,Harbans Darshan M. Arora,Raj Babbar
+-1998,160 min,"Comedy, Drama, Romance",4.3,583,Kirti Kumar,Govinda,Raveena Tandon,Harish
+-1979,136 min,"Horror, Mystery, Thriller",6,24,Shyam Ramsay,Tulsi Ramsay,Sachin Pilgaonkar,Rajni Sharma
+-2007,142 min,Comedy,4.2,36,S. Soni,Krishna Abhishek,Kashmira Shah,Jackie Shroff
+-2013,137 min,"Action, Drama, Thriller",6.5,"3,985",Atul Sabharwal,Arjun Kapoor,Sasha Aagha,Prithviraj Sukumaran
+-1940,154 min,Drama,7.2,30,Mehboob Khan,Surendra,Sardar Akhtar,Lala Yaqoob
+-1967,149 min,"Comedy, Drama",7.4,59,S.S. Balan,S.S. Vasan,Padmini,Pran
+-1988,149 min,Drama,4.2,16,Mohanji Prasad,Shoma Anand,Vikas Anand,Raj Babbar
+-1998,119 min,Romance,4.8,44,Suresh Krishna,Nagarjuna Akkineni,Mahesh Anand,Babu Mohan
+-2016,97 min,"Crime, Drama",5.9,355,Rohit Mittal,Adamya,Sunny Banerjee,Ronjini Chakraborty
+-2010,96 min,Drama,6.4,223,Aamir Bashir,Mohammad Amir Naji,Shahnawaz Bhat,Shamim Basharat
+-1997,127 min,"Action, Drama, Musical",4.5,976,Sohail Khan,Salman Khan,Sanjay Kapoor,Shilpa Shetty Kundra
+-1978,144 min,Drama,6.5,64,I.V. Sasi,Seema,Bahadur,Thoppil Bhasi
+-1987,156 min,"Adventure, Mystery, Thriller",5.7,58,B.R. Chopra,Rajesh Khanna,Ashok Kumar,Smita Patil
+-1986,171 min,"Action, Crime, Drama",6,44,Umesh Mehra,Mithun Chakraborty,Poonam Dhillon,Bindiya Goswami
+-2017,70 min,"Drama, Romance",6,27,Mohit Goswami,Anuj Jain,Vikrant Verma,Apurva Chowdhary
+-1983,150 min,Drama,7.2,571,Mohan Kumar,Rajesh Khanna,Shabana Azmi,Sujit Kumar
+-1951,193 min,"Drama, Musical, Romance",7.9,"3,813",Raj Kapoor,Raj Kapoor,Nargis,Prithviraj Kapoor
+-1990,149 min,Drama,5.9,150,Mahesh Bhatt,Anil Kapoor,Meenakshi Sheshadri,Govinda
+-1984,150 min,"Action, Drama, Romance",6.2,46,Shakti Samanta,Rajesh Khanna,Jaya Prada,Rakesh Roshan
+-1964,134 min,"Action, Adventure, Drama",5.1,17,B.R. Ishara,Ragini,Ajit,Indira
+-2002,158 min,"Action, Comedy, Crime",6.2,"7,775",Vikram Bhatt,Akshay Kumar,Sunil Shetty,Aftab Shivdasani
+-2007,126 min,"Action, Crime, Drama",7.3,"6,737",Mohit Suri,Emraan Hashmi,Mrinalini Sharma,Ashish Vidyarthi
+-2020,101 min,Drama,8.7,21,Rajat Kumar Chaturvedi,Arjun Chakrabarty,Trishala Idnani,Sarvagya Jain
+-2016,131 min,Romance,3.6,5,Yogesh Bharadwaj,Vaarssh Bhatnagar,Sunil Chaurasiyaa,Suhasini Mulay
+-2019,104 min,"Comedy, Drama",7,"1,979",Nicholas Kharkongor,Sayani Gupta,Lin Laishram,Jimpa Bhutia
+-1969,173 min,"Drama, Romance",6.2,104,Raghunath Jhalani,Asha Parekh,Dharmendra,Ravindra Kapoor
+-1982,131 min,Romance,5.1,34,Shakti Samanta,Sanjeev Kumar,Rati Agnihotri,Arun Govil
+-1964,146 min,"Drama, Romance",6.4,116,Mohan Kumar,Rajendra Kumar,Saira Banu,Dharmendra
+-1991,152 min,Romance,6.2,40,K. Pappu,Avinash Wadhawan,Shaheen,Anupam Kher
+-2000,137 min,"Action, Crime, Drama",5.5,27,Shivakumar,Nagesh,Roja,Arjun Sarja
+-2001,102 min,Documentary,7.6,432,Pan Nalin,Nicolos Kostopoulos,Vaidya Narayan Murthy,Brahmanand Swamigal
+-1955,163 min,"Action, Adventure, Comedy",7.2,136,Sriramulu Naidu S.M.,Dilip Kumar,Meena Kumari,Pran
+-1978,154 min,"Action, Comedy, Drama",7.2,82,Pramod Chakravorty,Dharmendra,Hema Malini,Prem Chopra
+-1990,153 min,"Action, Drama",5,52,S.A. Chandrashekhar,Rekha,Rishi Kapoor,Jackie Shroff
+-1940,140 min,Drama,7.1,11,N.R. Acharya,Leela Chitnis,Ashok Kumar,Hansa Wadkar
+-2016,130 min,"Biography, Drama, Sport",5.7,"5,328",Anthony D'Souza,Emraan Hashmi,Nargis Fakhri,Prachi Desai
+-2017,117 min,Drama,8.8,5,Vishal Mourya,Bharat Chawla,Nemi Chandra Jha,Moumita Nandi
+-2012,95 min,"Crime, Drama, Thriller",6.4,"3,702",Ajay Bahl,Shadab Kamal,Shilpa Shukla,Dibyendu Bhattacharya
+-2017,125 min,Drama,2.1,419,Shadab Khan,Shadab Khan,Kritika Sachdeva,Satiiysh Saarathy Sasho
+-2021,136 min,"Drama, Romance",8.3,"1,877",Narendra Singh,Sunny Sachdeva,Armaan Sandhu,Ankita Sahu
+-2018,103 min,"Action, Comedy, Crime",6.4,446,Vishwas Paandya,Anupam Kher,Annu Kapoor,Manish Paul
+-2009,180 min,"Action, Crime, Drama",5.1,302,Ashu Trikha,Mithun Chakraborty,Om Puri,Sohum Shah
+-2006,169 min,"Drama, Family, Romance",5.4,"3,157",Ravi Chopra,Amitabh Bachchan,Salman Khan,Hema Malini
+-1999,175 min,"Action, Comedy, Crime",6.9,"17,279",Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla,Shah Rukh Khan,Twinkle Khanna
+-2017,136 min,"Action, Adventure, Thriller",4.9,"4,454",Milan Luthria,Ajay Devgn,Ileana D'Cruz,Emraan Hashmi
+-2000,156 min,"Action, Crime, Drama",4.2,208,Rajesh Ram Singh,Sanjay Dutt,Manisha Koirala,Aditya Pancholi
+-2016,133 min,"Action, Romance, Thriller",5.2,"7,912",Sabir Khan,Shraddha Kapoor,Tiger Shroff,Sudheer Babu Posani
+-2018,137 min,"Action, Thriller",4.8,"9,625",Ahmed Khan,Tiger Shroff,Disha Patani,Manoj Bajpayee
+-2020,143 min,"Action, Comedy, Musical",2.1,"10,309",Ahmed Khan,Tiger Shroff,Riteish Deshmukh,Shraddha Kapoor
+-1990,157 min,"Action, Drama, Romance",5.7,"1,390",Deepak S. Shivdasani,Salman Khan,Nagma,Shakti Kapoor
+-2001,79 min,Family,6.1,10,Apurba Kishore Bir,Ram Awana,Saroj Bhagwar,Roni Bhatt
+-2017,127 min,Drama,7.3,16,Nikhil Mahajan,Zakir Hussain,Amruta Khanvilkar,Ravi Khanvilkar
+-2019,65 min,Comedy,7,20,Paresh Vinodray Savani,Samiksha Bhatnagar,Rishi Bhutani,Nilofar Gesawat
+-2015,138 min,Comedy,6.2,356,Aijaz Khan,Rajpal Yadav,Tia Bajpai,Rakesh Bedi
+-1990,152 min,"Action, Comedy, Crime",6,303,Aziz Sejawal,Asrani,Gulshan Grover,Jamuna
+-1955,130 min,"Comedy, Drama, Family",6.4,28,Abdul Rashid Kardar,Kishore Kumar,Chand Usmani,Smriti Biswas
+-2016,141 min,"Action, Comedy, Drama",5.3,"6,423",Nitya Mehra,Sidharth Malhotra,Katrina Kaif,Sayani Gupta
+-2017,124 min,"Comedy, Romance",6.2,179,Syed Ahmad Afzal,Sandeepa Dhar,Archana Gautam,Anurita Jha
+-1957,133 min,"Crime, Drama, Romance",7.2,37,Shankar Mukherjee,Dev Anand,Nutan,Anwar Hussain
+-2018,48 min,Drama,6.1,271,Tigmanshu Dhulia,Amit Sadh,Taapsee Pannu,Tariq Naved Siddiqui
+-2012,135 min,"Action, Crime, Drama",3.2,13,Jagdish Pandey,Sunil Shetty,Shilpa Shirodkar,Moon Moon Sen
+-1986,148 min,Comedy,6.4,165,Bharat Rangachary,Zeenat Aman,Amol Palekar,Utpal Dutt
+-2013,108 min,"Comedy, Romance",5.1,69,Shuja Ali,Anisa Butt,Ali Fazal,Gulshan Grover
+-1962,145 min,"Mystery, Romance, Thriller",6.8,116,Shankar Mukherjee,Dev Anand,Waheeda Rehman,Chandrashekhar
+-1953,140 min,"Action, Adventure, Musical",7.3,93,Guru Dutt,Guru Dutt,Geeta Bali,K.N. Singh
+-2003,180 min,"Mystery, Thriller",3.2,344,Tinnu Verma,Jackie Shroff,Sunil Shetty,Karisma Kapoor
+-2018,137 min,"Crime, Drama, Thriller",6.6,"4,831",Gauravv K. Chawla,Radhika Apte,Saif Ali Khan,Chitrangda Singh
+-1951,143 min,"Crime, Drama, Musical",7.3,343,Guru Dutt,Dev Anand,Geeta Bali,Kalpana Kartik
+-1968,141 min,"Crime, Musical, Mystery",6.4,60,Moni Bhattacharjee,Waheeda Rehman,Dharmendra,Johnny Walker
+-1984,125 min,Action,6.3,65,Raj N. Sippy,Dharmendra,Rekha,Mithun Chakraborty
+-1995,183 min,"Action, Thriller, Crime",6.5,"2,248",Ashutosh Gowariker,Aamir Khan,Mamta Kulkarni,Paresh Rawal
+-1993,175 min,"Crime, Drama, Musical",7.7,"26,583",Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla,Shah Rukh Khan,Kajol
+-1972,133 min,"Adventure, Comedy, Crime",7.5,6,Karunesh Thakur,Vijayalalitha,Roopesh Kumar,Bindu
+-2014,113 min,"Comedy, Drama, Romance",6.7,83,Nila Madhab Panda,Sahil Anand,Erica Fernandes,Parvin Dabas
+-1985,148 min,"Drama, Family",7.1,64,A.C. Trilogchander,Rajesh Khanna,Hema Malini,Mala Sinha
+-1950,142 min,Drama,7.3,72,S.U. Sunny,Nargis,Dilip Kumar,Amar
+-1986,162 min,Drama,4.8,9,Govind Moonis,Gyan Shivpuri,Upasna Singh,Kanchan Rawal
+-1985,129 min,"Drama, Sci-Fi",5.9,10,Sadhu Meher,Debu Bramha,Anita Das,Gadi
+-2017,122 min,"Action, Crime, Thriller",6.9,"1,974",Kushan Nandy,Nawazuddin Siddiqui,Bidita Bag,Jatin Goswami
+-2015,159 min,"Action, Thriller",8,"53,997",Neeraj Pandey,Akshay Kumar,Danny Denzongpa,Rana Daggubati
+-2008,99 min,"Comedy, Horror, Musical",2.7,71,Salim Raza,Amit,Satyam Rajesh,Jayesh Shah
+-2005,130 min,"Comedy, Drama, Romance",2.7,202,Govind Menon,Rekha,Mallika Sherawat,Paresh Rawal
+-2008,152 min,"Comedy, Drama, Romance",6.1,"10,674",Siddharth Anand,Ranbir Kapoor,Deepika Padukone,Bipasha Basu
+-1970,133 min,"Action, Comedy, Crime",6.3,31,Kolli Pratyagatma,Sulochana Chatterjee,Pratima Devi,Baby Gayatri
+-2017,120 min,Drama,8.2,9,Prabhat Kumar,Suvahhdan Angre,Kalpana Bhattarai,Samuel Kamble
+-1984,135 min,"Family, Thriller",6.2,12,Feroz Chinoy,Sanjeev Kumar,Parveen Babi,Shatrughan Sinha
+-2003,118 min,Thriller,3.3,6,Vicky S. Kumar,Rakesh Bedi,Suresh Chatwal,Avtar Gill
+-2009,120 min,"Comedy, Crime, Drama",3.5,17,Varun Khanna,Gaurav Kapoor,Hrishitaa Bhatt,Govind Namdeo
+-1973,144 min,"Action, Comedy, Crime",5,22,Deven Verma,Ashok Kumar,Deven Verma,Nikhilesh
+-1951,146 min,"Action, Romance",6.7,34,Amiya Chakrabarty,Madhubala,Prem Nath,Purnima
+-1966,150 min,"Action, Adventure, Musical",7,10,Aspi Irani,Sheikh Mukhtar,L. Vijayalakshmi,Sanjeev Kumar
+-2000,166 min,"Action, Crime, Drama",4.9,"1,281",Raj Kanwar,Bobby Deol,Rani Mukerji,Ashutosh Rana
+-1978,136 min,"Drama, Romance",6.7,62,Raghunath Jhalani,Jeetendra,Rishi Kapoor,Reena Roy
+-1983,146 min,"Drama, Action, Crime",6.3,118,Bhappi Sonie,Rishi Kapoor,Tina Ambani,Sarika
+-1999,146 min,"Comedy, Drama, Romance",3.6,"1,289",Shakeel Noorani,Sunil Shetty,Priya Gill,Paresh Rawal
+-1989,138 min,Drama,6,66,Kalpataru,Shammi Kapoor,Rishi Kapoor,Meenakshi Sheshadri
+-1998,140 min,"Action, Comedy, Musical",5.8,"2,787",David Dhawan,Amitabh Bachchan,Govinda,Raveena Tandon
+-2018,124 min,"Comedy, Drama",8,"29,518",Amit Ravindernath Sharma,Ayushmann Khurrana,Neena Gupta,Gajraj Rao
+-2002,155 min,"Comedy, Drama, Musical",4.5,673,Satish Kaushik,Anil Kapoor,Rana Jung Bahadur,Anang Desai
+-1987,146 min,Drama,6.9,7,Jugal Debata,Isha Bebarta,Debu Bose,Anu Choudhury
+-1993,130 min,"Drama, Family",5.4,14,Kalpataru,Asrani,Raj Babbar,Chandrashekhar
+-1969,156 min,"Comedy, Drama, Romance",4.4,11,Narendra Suri,Nanda,Jeetendra,Om Prakash
+-1945,122 min,"Drama, War",5.4,9,Master Vinayak,Sitara Devi,Girish,Ishwarlal
+-1986,129 min,Drama,6.7,7,Shiv Kumar,Sanjeev Kumar,Apeksha,Sadhana Singh
+-1974,112 min,Thriller,6.2,13,Vijay,Shatrughan Sinha,Moushumi Chatterjee,Johnny Walker
+-2019,118 min,"Crime, Drama, Mystery",7.8,"23,890",Sujoy Ghosh,Amitabh Bachchan,Taapsee Pannu,Amrita Singh
+-1980,134 min,"Action, Drama",7.6,11,Kawal Sharma,Rajendra Kumar,Vinod Mehra,Asha Parekh
+-2015,134 min,"Action, Crime, Drama",7.4,"22,324",Sriram Raghavan,Varun Dhawan,Nawazuddin Siddiqui,Yami Gautam
+-2014,123 min,Drama,4.7,123,Shailesh Verma,Annu Kapoor,Anupam Maanav,Saranya Mohan
+-1982,158 min,"Action, Drama",4.8,59,Rajkumar Kohli,Sunil Dutt,Dharmendra,Jeetendra
+-2010,142 min,"Comedy, Crime, Drama",6,"6,466",Parmeet Sethi,Shahid Kapoor,Anushka Sharma,Meiyang Chang
+-1998,119 min,Action,2.5,25,Goutam Pawar,Jackie Shroff,Shilpa Shirodkar,Paresh Rawal
+-2016,83 min,"Comedy, Drama",4.3,30,Soumik Sen,Gulshan Grover,Rishi Kapoor,Farah Khan
+-2015,128 min,"Comedy, Romance",4.6,133,Amit Khanna,Sidhant Gupta,Suzanna Mukherjee,Gunjan Malhotra
+-2019,95 min,Comedy,7.1,805,Ashwin Shetty,Patralekhaa Paul,Divyendu Sharma,Dolly Ahluwalia
+-1971,100 min,Drama,6.6,10,Prem Kapoor,Nitin Sethi,Nandita Thakur,Nandlal Sharma
+-2017,139 min,"Comedy, Drama, Romance",6.1,"10,865",Shashank Khaitan,Varun Dhawan,Alia Bhatt,Sahil Vaid
+-2013,103 min,Drama,5.9,14,Laxmikant Shetgaonkar,Paoli Dam,Jean Denis Römer,Cedric Cirotteau
+-1989,91 min,Drama,7.7,72,Buddhadev Dasgupta,Pawan Malhotra,M.V. Vasudeva Rao,Archana
+-1982,144 min,"Action, Romance",6.4,66,Ramanand Sagar,Dharmendra,Hema Malini,Reena Roy
+-1938,159 min,Drama,7.2,8,Abdul Rashid Kardar,Bimla Kumari,B. Nandrekar,Sitara Devi
+-2003,181 min,"Drama, Romance",7.4,"15,518",Ravi Chopra,Amitabh Bachchan,Hema Malini,Salman Khan
+-2019,137 min,Drama,5.5,6,Karan Kashyap,Raza Murad,Puneet Vashisht,Lalit Parimoo
+-1990,145 min,Family,4.7,63,Tariq Shah,Roopa Ganguly,Ram Mohan,Navin Nischol
+-1951,170 min,Drama,5.7,18,M.V. Raman,Karan Dewan,Vyjayanthimala,Pran
+-1966,139 min,"Drama, Romance",7.1,93,Shaheed Latif,Mala Sinha,Dharmendra,Tanuja
+-1967,171 min,"Drama, Romance",7.6,77,Nasir Hussain,Rajesh Khanna,Asha Parekh,Anwar Hussain
+-1968,160 min,Mystery,7.1,54,Yakub Hasan Rizvi,Meena Kumari,Dharmendra,Rehman
+-2019,120 min,Comedy,8.8,23,Sanjay Puran Singh Chauhan,Narottam Bain,Aamir Bashir,Pawan Malhotra
+-1941,156 min,Drama,6,10,Mehboob Khan,Sheikh Mukhtar,Nalini Jaywant,Harish
+-1967,167 min,"Comedy, Drama, Romance",6.5,69,M. Sadiq,Ashok Kumar,Pradeep Kumar,Meena Kumari
+-1965,132 min,"Drama, Family",6.5,17,T. Prakash Rao,Ashok Kumar,Mala Sinha,Joy Mukherjee
+-1985,147 min,Drama,6.3,16,Shashilal K. Nair,Vikas Anand,Bharat Bhushan,B.L. Chopra
+-1964,133 min,Drama,6.8,42,T. Prakash Rao,Guru Dutt,Feroz Khan,Nasir Hussain
+-1954,168 min,"Adventure, Drama, Fantasy",6.7,24,S.S. Vasan,Madhubala,Ratan Kumar,Agha
+-2020,125 min,"Comedy, Crime, Drama",7.3,"3,036",Ashish R. Shukla,Sanjay Mishra,Ram Kapoor,Raghav Juyal
+-1952,165 min,"Drama, Musical, Romance",7.4,343,Vijay Bhatt,Meena Kumari,Bharat Bhushan,Surendra
+-2021,72 min,Family,9.3,29,Vishwa Bhanu,Vishwa Bhanu,Sangam Shukla,Vijay Thakur
+-2013,110 min,"Comedy, Drama, Thriller",5.3,729,Shashant Shah,Tusshar Kapoor,Vinay Pathak,Ranvir Shorey
+-2015,158 min,"Action, Drama, History",7.2,"32,073",Sanjay Leela Bhansali,Ranveer Singh,Deepika Padukone,Priyanka Chopra Jonas
+-1976,176 min,Fantasy,7.7,85,Chandrakant,Dara Singh,Biswajit Chatterjee,Moushumi Chatterjee
+-2015,163 min,"Action, Adventure, Comedy",8,"78,448",Kabir Khan,Salman Khan,Harshaali Malhotra,Nawazuddin Siddiqui
+-1996,163 min,"Action, Drama",2.7,113,Prakash Mehra,Bindu Shukla,Puru Rajkumar,Karisma Kapoor
+-2009,74 min,Animation,6.5,46,Pankaj Sharma,,,
+-2015,68 min,Animation,4.2,13,Vijay S. Bhanushali,Vidit Kumar,Parminder Ghumman,Sanjeev Tiwari
+-2017,81 min,Animation,2.3,9,Vijay S. Bhanushali,Vidit Kumar,Parminder Ghumman,Sanjeev Tiwari
+-2019,133 min,Comedy,7.3,"12,370",Amar Kaushik,Ayushmann Khurrana,Bhumi Pednekar,Yami Gautam
+-1985,137 min,"Action, Thriller",5.6,54,S.A. Chandrashekhar,Bindu,Anuradha,Vijay Arora
+-1971,137 min,Drama,6.8,16,Ravi Tandon,Manoj Kumar,Saira Banu,Dev Kumar
+-1976,111 min,"Comedy, Drama, Romance",6.9,229,Tarun Majumdar,Sachin Pilgaonkar,Rajni Sharma,Asrani
+-2012,117 min,Drama,8.1,24,Ajita Suchitra Veera,Ashwath Bhatt,Samiksha Bhatt,Tejaswi Bm
+-2017,120 min,Comedy,7.5,17,Akhilesh Jaiswal,Anil Charanjeett,Abha Parmar,Ankita Shrivastav
+-1968,176 min,Fantasy,5.6,8,Chandrakant,Dara Singh,Savitri,Jayshree Gadkar
+-1992,142 min,"Action, Adventure",4.3,179,Deepak Anand,Sunil Shetty,Divya Bharti,Danny Denzongpa
+-2014,136 min,Comedy,3.6,50,Sunil Agnihotri,Asrani,Gabriela Bertante,Mikhill Chandiramani
+-1968,136 min,"Crime, Drama, Romance",6,13,Khwaja Ahmad Abbas,Surekha,Madhavi,David Abraham
+-2020,102 min,Romance,7.2,"1,533",Ranjan Chandel,Aditya Rawal,Shalini Pandey,Vijay Varma
+-2006,122 min,"Musical, Drama",6.1,315,Pankaj Parashar,Urmila Matondkar,Ashmit Patel,Dimple Kapadia
+-2009,128 min,Drama,3.2,24,Nemom Pushparaj,Harisree Asokan,Anoop Chandran,Devan
+-1997,126 min,Comedy,4.2,231,David Dhawan,Govinda,Ramya Krishnan,Kader Khan
+-1973,141 min,"Drama, Thriller",6.7,73,Shankar Mukherjee,Dev Anand,Rakhee Gulzar,Yogeeta Bali
+-1962,145 min,Drama,6.1,21,Lekhraj Bhakri,Manoj Kumar,Vijaya Choudhury,I.S. Johar
+-2010,139 min,"Comedy, Drama, Romance",7.2,"15,583",Maneesh Sharma,Ranveer Singh,Anushka Sharma,Ranjit Batra
+-1990,145 min,"Action, Drama, Horror",5.1,298,Shyam Ramsay,Tulsi Ramsay,Hashmat Khan,Manjeet Kular
+-1998,154 min,"Action, Drama, Romance",4.8,"1,852",K. Muralimohana Rao,Rajesh Malik,Jackie Shroff,Salman Khan
+-1969,159 min,"Drama, Family, Musical",7.2,85,Narendra Bedi,Rajesh Khanna,Mumtaz,Anju Mahendru
+-1983,124 min,"Drama, Family",7.1,36,Anil Sharma,Shashi Kapoor,Zeenat Aman,Rakhee Gulzar
+-1973,139 min,"Action, Thriller",5.8,100,O.P. Goyle,Mumtaz,Amitabh Bachchan,Ajit
+-1992,126 min,Family,7.9,7,Ugyen Chhopel,Abhishek,Danny Denzongpa,Gitanjali
+-1957,135 min,"Drama, Family",6.2,27,Satyen Bose,Ashok Kumar,Shyama,Kishore Kumar
+-1963,157 min,"Drama, Musical, Romance",7.7,756,Bimal Roy,Ashok Kumar,Nutan,Dharmendra
+-1955,129 min,"Comedy, Drama, Musical",7.1,17,Satyen Bose,Ashok Kumar,Meena Kumari,Daisy Irani
+-1980,152 min,"Action, Crime, Drama",6.1,47,K. Bapaiah,Rajesh Khanna,Hema Malini,Danny Denzongpa
+-1994,119 min,"Biography, Crime, Drama",7.6,"4,518",Shekhar Kapur,Seema Biswas,Nirmal Pandey,Rajesh Vivek
+-2013,132 min,"Crime, Thriller",5.9,140,Aditya Om,Manisha Kelkar,Arshad Khan,Ashish Kotwal
+-2014,153 min,"Action, Adventure, Comedy",5.6,"22,436",Siddharth Anand,Hrithik Roshan,Katrina Kaif,Pawan Malhotra
